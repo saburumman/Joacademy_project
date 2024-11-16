@@ -27,7 +27,7 @@ loginFeature.login('962796141803@joacademy.com', 'aeHFOx8jV/A=')
 // Optional: Perform additional actions after login
 WebUI.comment('Logged in successfully.')
 
-WebUI.click(findTestObject('Login_Objects/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
+WebUI.click(findTestObject('Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
 
 WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Choose_Proram_From_Filters'))
 

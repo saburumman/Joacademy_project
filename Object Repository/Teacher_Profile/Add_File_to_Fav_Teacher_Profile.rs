@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add_File_to_Fav_Teacher_Profile</name>
+   <tag></tag>
+   <elementGuidId>a3376cb2-b217-41fb-8fa4-697270c2aa68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9d694fa6-45cf-4090-a5a2-76f150b30369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-heart-3-fill actions_font-size-24px__cZD_q </value>
+      <webElementGuid>e86d4c7c-8bf4-4858-815b-1d1b34cbc741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;md:tw-p-5&quot;]/div[@class=&quot;tw-mt-2&quot;]/div[@class=&quot;tw-relative tw-top-[-4px] tw-pt-8&quot;]/div[@class=&quot;ant-col ant-col-rtl css-14i19y2&quot;]/div[@class=&quot;ant-row ant-row-center ant-row-middle ant-row-rtl  shared_full-width__6Fhsp css-14i19y2&quot;]/div[@class=&quot;ant-spin-nested-loading css-14i19y2&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-row ant-row-rtl css-14i19y2&quot;]/div[@class=&quot;shared_full-width__6Fhsp shared_margin-column-half-rem__cGLZG&quot;]/div[@class=&quot;tw-mb-4  tw-rounded-xl tw-border tw-border-gray-100 tw-bg-white tw-px-10 tw-py-8 tw-transition-all tw-duration-300 hover:tw-shadow-md sm:tw-mb-0 sm:tw-px-6 sm:tw-py-4 tw-cursor-pointer&quot;]/div[@class=&quot;tw-flex tw-w-full tw-flex-col tw-items-start tw-justify-between sm:tw-items-center md:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-flex-col tw-items-end tw-justify-center tw-gap-4&quot;]/div[@class=&quot;tw-hidden md:tw-block&quot;]/div[@class=&quot;ant-row ant-row-center ant-row-rtl shared_position-relative__nIq8V css-14i19y2&quot;]/div[@class=&quot;ant-col ant-col-rtl css-14i19y2&quot;]/button[@class=&quot;tw-z-40 tw-rounded tw-bg-[#ece7e762] tw-px-2 hover:tw-bg-[#dbbaba62] tw-text-gray-300&quot;]/i[@class=&quot;ri-heart-3-fill actions_font-size-24px__cZD_q&quot;]</value>
+      <webElementGuid>24a86de2-9e12-4604-96b3-25b3882370ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/button/i</value>
+      <webElementGuid>2c953532-2bab-43c2-8444-21278860ceee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/i</value>
+      <webElementGuid>c737b5ef-dc68-448a-bed0-df443eb2e150</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

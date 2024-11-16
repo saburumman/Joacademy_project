@@ -27,52 +27,98 @@ loginFeature.login('962796141803@joacademy.com', 'aeHFOx8jV/A=')
 // Optional: Perform additional actions after login
 WebUI.comment('Logged in successfully.')
 
-//Navigate to Teachers Page
-WebUI.click(findTestObject('Object Repository/Login_Objects/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
+//Navigate to teacher's page
+WebUI.click(findTestObject('Object Repository/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
 
-WebUI.setText(findTestObject('Object Repository/Login_Objects/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
+//Search for a teacher
+WebUI.setText(findTestObject('Object Repository/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
 
-//WebUI.verifyTextPresent(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Teachers_Name_on_Teachers_Card'),'اسامة العكور')
+//Save the teacher's name from the teacher card in an obj then get the string
+def teacherNameOnCard = findTestObject('Object Repository/Teacher_Profile/Teachers_Name_on_Teachers_Card')
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Teachers_Name_on_Teachers_Card'))
+String saveTeacherName = WebUI.getText(teacherNameOnCard)
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Office_Hours_Teacher_Profile'))
+//Go to the teacher's profile
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Teachers_Name_on_Teachers_Card'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_-   - joacademy.com/span_'))
+//Check if the profile is for the same selected teacher 
+boolean isSameTeacherNamePresent = WebUI.verifyTextPresent(saveTeacherName, false // 'false' makes it case-insensitive
+    )
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Groups_Teacher_Profile'))
+if (isSameTeacherNamePresent) {
+    WebUI.comment('Same Teacher I Searched For is Found!')
+} else {
+    WebUI.comment('Not Same Teacher I Searched For! BUG!!!!')
+}
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Posts_Teacher_Profile'))
+// Navigate between teacher's profile tabs
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Office_Hours_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Files_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Shbabek_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Events_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Groups_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Exams_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Posts_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Mixed_Videos_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Files_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Files_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Events_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__ant-select-selection-item'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Exams_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4_5_6_7_8'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Mixed_Videos_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/div__1'))
+// Navigate to files tab
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Files_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/i__ri-download-2-line tw-text-16px hovertw-_12563d'))
+//Filter to show the files only
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Filter_Files_Based_on_Program_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Share_File_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Filter_File_Type_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/File_Link_Copied_Success_Msg'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Choose_Files_Option_Filter_File_Type_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/i__ri-heart-3-fill actions_font-size-24px__cZD_q'))
+//Download the first file
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Download_File_btn_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4_5_6_7_8_9'))
+//Share the first file
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Share_File_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/h2__1'))
+//Check the file's link is copied successfully
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/File_Link_Copied_Success_Msg'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/h2__1'))
+//Add file to Favorite
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Add_File_to_Fav_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/p_'))
+//Save the file's name from the teacher card in an obj then get the string
+def savedFile = findTestObject('Teacher_Profile/Added_to_Fav_File_Teacher_Profile')
 
+String savedFileName = WebUI.getText(savedFile)
+
+//Go to favorite page
+WebUI.click(findTestObject('Favorite_Page/Fav_From_Side_Menu'))
+
+//Check if the file is for the same saved from teacher's profile
+boolean isSameFileNamePresent = WebUI.verifyTextPresent(savedFileName, false // 'false' makes it case-insensitive
+    )
+
+if (isSameFileNamePresent) {
+    WebUI.comment('Same File I Saved is Found!')
+} else {
+    WebUI.comment('Not the Same File I Saved! BUG!!!!')
+}
+
+//Unsave File
+		WebUI.doubleClick(findTestObject('Favorite_Page/Saved_File_In_Fav_Page'))
+		
+		//Navigate to Courses, to refresh Teachers tab
+		WebUI.click(findTestObject('Object Repository/Favorite_Page/Courses_Fav'))
+		
+		WebUI.delay(5)
+		
+		//Navigate back to Files tab
+		WebUI.click(findTestObject('Favorite_Page/Files_Tab_In_Fav_Page'))
+		
+		//Veify Element is not present
+		WebUI.verifyElementNotPresent(findTestObject('Favorite_Page/Nothing_Added_to_Fav'), 0)
+		

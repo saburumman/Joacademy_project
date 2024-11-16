@@ -1,4 +1,4 @@
-package filterTeachers
+package unsaveFavFile
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -20,27 +20,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class Filter_Teacher {
+public class Unsave_Fav_File {
 	
 	@Keyword
-	def filterTeacher() {
-
-	WebUI.click(findTestObject('Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
-
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Choose_Proram_From_Filters'))
-
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Filter_Option__for_Program'))
-
-    WebUI.click(findTestObject('Filter_Teacher_Obj/Choose_Section_Filter_'))
-
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Filter_Section_Option'))
-
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Filter_Subject_Option'))
-
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Choose_Subject_Filter'))
-
-
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Button_Reset_Filters'))
-
+	def unSaveFavFile() {
+		
+		//Unsave File
+		WebUI.doubleClick(findTestObject('Favorite_Page/Saved_File_In_Fav_Page'))
+		
+		//Navigate to Courses, to refresh Teachers tab
+		WebUI.click(findTestObject('Object Repository/Favorite_Page/Courses_Fav'))
+		
+		WebUI.delay(5)
+		
+		//Navigate back to Files tab
+		WebUI.click(findTestObject('Favorite_Page/Files_Tab_In_Fav_Page'))
+		
+		//Veify Element is not present
+		WebUI.verifyElementNotPresent(findTestObject('Favorite_Page/Nothing_Added_to_Fav'), 0)
+		
 	}
+	
 }
