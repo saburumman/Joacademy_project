@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Navigate_With_Left_Arrow</name>
+   <tag></tag>
+   <elementGuidId>8927c276-1c99-4124-85ae-d22df9734ca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/nav[2]/button[9]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ri-arrow-left-s-line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6b6e75b1-810c-48c3-b826-8dbfe32eb910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-arrow-left-s-line tw-text-[20px]</value>
+      <webElementGuid>4c34d41d-e1e1-4426-b933-6d39c764a189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-pb-[20px] sm:tw-pb-[50px]&quot;]/nav[@class=&quot;tw-flex tw-items-center tw-justify-center&quot;]/button[@class=&quot;tw-inline-flex tw-cursor-pointer tw-items-center tw-justify-center tw-border-0  tw-bg-transparent tw-cursor-pointer&quot;]/i[@class=&quot;ri-arrow-left-s-line tw-text-[20px]&quot;]</value>
+      <webElementGuid>84752c8d-2901-4d80-8f8b-69c99099d231</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/nav[2]/button[9]/i</value>
+      <webElementGuid>58c4c0da-e9c0-4df1-81d7-8f62172a5947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[9]/i</value>
+      <webElementGuid>8f2558dd-f1b1-400a-9e51-ff32f6c44456</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

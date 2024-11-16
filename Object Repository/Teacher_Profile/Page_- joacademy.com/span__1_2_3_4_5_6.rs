@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>d552ccf8-cf50-42f3-8004-86d76ce7062c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div/a[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>700401c5-8b5a-4422-9a1e-594a0a4a468f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-px-5</value>
+      <webElementGuid>d815571c-c090-49da-b210-cb27b63e61ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>اختبارات المادة</value>
+      <webElementGuid>e51cde70-66bc-4c0f-a0bf-edbb99b31dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;md:tw-p-5&quot;]/div[@class=&quot;tw-mt-2&quot;]/div[@class=&quot;hide-scroll !tw-z-20 tw-flex tw-h-14 !tw-w-full tw-items-start !tw-justify-start !tw-overflow-x-auto !tw-overflow-y-hidden !tw-rounded-none tw-border-[#1A428A33] !tw-bg-slate-50 tw-p-1  tw-text-slate-500 md:tw-inline-flex md:tw-items-center md:tw-justify-center md:tw-rounded-md md:tw-bg-slate-100 dark:tw-bg-slate-800 dark:tw-text-slate-400&quot;]/a[@class=&quot;tw-focus:tw-outline-none tw-focus:tw-ring-2 tw-focus:tw-ring-offset-2 tw-disabled:tw-pointer-events-none tw-disabled:tw-opacity-50 tw-inline-flex tw-h-full tw-w-full tw-items-center tw-justify-center tw-whitespace-nowrap tw-text-sm tw-transition-all regular !tw-rounded-none tw-border-b-4 tw-border-gray-300 tw-text-slate-500&quot;]/span[@class=&quot;tw-px-5&quot;]</value>
+      <webElementGuid>f1082010-bb98-46f1-aa38-ae602e67c111</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div/a[6]/span</value>
+      <webElementGuid>141d3c0e-5d8a-4d39-afa0-304e661e7127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='احداث مهمة'])[1]/following::span[1]</value>
+      <webElementGuid>faf533da-3dbd-450f-8d73-6a6870601367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الملفات والدوسيات'])[1]/following::span[2]</value>
+      <webElementGuid>9b6d6080-47d4-49c9-b880-184ccb308675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مكس فيديو'])[1]/preceding::span[1]</value>
+      <webElementGuid>9051323b-11f4-4d8f-9c75-9b42639ddfb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/preceding::span[2]</value>
+      <webElementGuid>d3bc969b-c63b-424b-baee-eeba436f3921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='اختبارات المادة']/parent::*</value>
+      <webElementGuid>e7fce22c-8351-4dc7-b192-c1313041171e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/a[6]/span</value>
+      <webElementGuid>2ef60baf-42bd-4b20-92d1-0ed7791aa717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'اختبارات المادة' or . = 'اختبارات المادة')]</value>
+      <webElementGuid>f0b7dd36-0f18-4245-9a12-12db6d563e8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

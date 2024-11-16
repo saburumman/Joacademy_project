@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Courses_Fav</name>
+   <tag></tag>
+   <elementGuidId>a47905e0-954a-4bf5-9314-7c4f39a836e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'دورات' or . = 'دورات')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;دورات&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0295b635-83f9-4ed9-acba-e2725f24a310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-flex tw-h-[45px] tw-items-center tw-justify-center tw-gap-[10px] tw-rounded-[14px] tw-px-[20px] tw-py-[10px] tw-font-semibold tw-shadow tw-transition tw-duration-150 tw-ease-in-out hover:tw-bg-[#efefef] tw-bg-[#E1ECFF]</value>
+      <webElementGuid>f821f714-870b-4ec3-b20c-dc64e226be0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>دورات</value>
+      <webElementGuid>41edb4e8-ce49-440f-81c4-759fc1d66567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-pb-[20px] sm:tw-pb-[50px]&quot;]/section[@class=&quot;tw-mb-[10px] tw-flex tw-flex-wrap tw-items-center tw-gap-[10px]&quot;]/button[@class=&quot;tw-flex tw-h-[45px] tw-items-center tw-justify-center tw-gap-[10px] tw-rounded-[14px] tw-px-[20px] tw-py-[10px] tw-font-semibold tw-shadow tw-transition tw-duration-150 tw-ease-in-out hover:tw-bg-[#efefef] tw-bg-[#E1ECFF]&quot;]</value>
+      <webElementGuid>1a6ef74f-0ed0-45dc-8d72-e407956d3dc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/section/button[2]</value>
+      <webElementGuid>3c6ca01b-942d-4943-9060-651f6f531a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مفضلتي'])[2]/following::button[2]</value>
+      <webElementGuid>c8ee9c32-1c9c-416e-80bc-1e59579edbc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='فعاليات جو اكاديمي'])[1]/following::button[2]</value>
+      <webElementGuid>361697aa-d959-44cb-9403-32ec3e95c0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تذييل جو أكاديمي'])[1]/preceding::button[2]</value>
+      <webElementGuid>1a1ff25a-9681-4ed1-848a-5b09f2b53921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='روابط سريعة'])[1]/preceding::button[2]</value>
+      <webElementGuid>e0379361-65e8-4f92-b448-91b4671ab2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>932fc73c-1176-4454-908f-7e4fc41a666f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'دورات' or . = 'دورات')]</value>
+      <webElementGuid>5482c3ae-386a-400b-aec4-e42304e664fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

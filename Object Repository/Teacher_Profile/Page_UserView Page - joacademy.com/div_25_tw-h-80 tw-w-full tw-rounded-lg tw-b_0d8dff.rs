@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_25_tw-h-80 tw-w-full tw-rounded-lg tw-b_0d8dff</name>
+   <tag></tag>
+   <elementGuidId>b65f0d71-1ee5-4117-8bc1-ca0ddc04a102</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tw-h-80.tw-w-full.tw-rounded-lg.tw-bg-gray-200</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div[3]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ec096e8-17d9-4a64-bd71-3309c986fe80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-h-80 tw-w-full tw-rounded-lg tw-bg-gray-200</value>
+      <webElementGuid>efc7fb26-f482-4835-becb-f316f64c81fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;tw-mx-auto tw-max-w-[1440px]&quot;]/div[@class=&quot;tw-my-3 tw-flex tw-flex-col tw-items-start tw-justify-between tw-gap-6 xl:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-flex-col tw-items-start tw-justify-center tw-gap-4  md:tw-gap-10 xl:tw-w-2/3 xl:tw-max-w-[696px] 2xl:tw-max-w-full&quot;]/div[@class=&quot;tw-rounded-lg tw-border tw-border-slate-200 tw-bg-white tw-text-slate-950 tw-shadow-sm dark:tw-border-slate-800 dark:tw-bg-slate-950 dark:tw-text-slate-50 !tw-h-full !tw-w-full tw-animate-pulse tw-space-y-8 !tw-bg-white tw-p-6&quot;]/div[@class=&quot;tw-grid tw-grid-cols-1 tw-gap-4 sm:tw-grid-cols-2 2xl:tw-grid-cols-3&quot;]/div[@class=&quot;tw-h-80 tw-w-full tw-rounded-lg tw-bg-gray-200&quot;]</value>
+      <webElementGuid>9ad1954e-eb04-426d-98ee-48397da73351</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div[3]/div/div/div[2]/div</value>
+      <webElementGuid>61b8a8b2-9565-49bc-8863-bc296b2f7083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div</value>
+      <webElementGuid>a33151cd-5038-4ced-98ff-585f48ca9b7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

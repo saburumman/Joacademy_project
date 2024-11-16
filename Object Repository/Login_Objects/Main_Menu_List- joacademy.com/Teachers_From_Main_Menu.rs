@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Teachers_From_Main_Menu</name>
+   <tag></tag>
+   <elementGuidId>6f3c1d34-131e-4226-ae1f-936dd49431af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/a[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-tut='teachers']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; معلمون&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>23706442-d75f-4b11-80d7-964ce46e34bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>medium tw-flex tw-w-full tw-items-center tw-gap-1 tw-text-[16px] tw-text-[#343434]</value>
+      <webElementGuid>5ddfc045-a7d5-4f66-ba8d-14df11a143fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/teachers/tawjihi</value>
+      <webElementGuid>eb5ca038-b6d6-44cc-b478-e02116952bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>معلمون</value>
+      <webElementGuid>93eaa570-87e6-49dc-88cb-98d2f4f94b92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-sticky tw-top-24 tw-my-6 tw-ms-8 tw-hidden tw-h-full tw-min-w-[240px] tw-max-w-[240px] lg:tw-block&quot;]/div[@class=&quot;tw-h-full tw-w-full tw-bg-white tw-p-2 lg:tw-rounded-[14px] lg:tw-border lg:tw-border-gray-100 lg:tw-p-8&quot;]/div[@class=&quot;tw-flex tw-h-full tw-w-full tw-flex-col tw-items-start tw-justify-start tw-gap-[6px]&quot;]/a[@class=&quot;medium tw-flex tw-w-full tw-items-center tw-gap-1 tw-text-[16px] tw-text-[#343434]&quot;]</value>
+      <webElementGuid>33d8ceae-4806-4bab-94f4-a63e4252597d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/a[8]</value>
+      <webElementGuid>6e940d71-db24-4a69-924f-ae4e2df64aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ملفات'])[1]/following::a[1]</value>
+      <webElementGuid>ca4158d7-1064-4f33-8a0f-79876b1e0fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الدورات'])[1]/following::a[2]</value>
+      <webElementGuid>f598cd39-23bd-4835-821f-5784ec436796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='بكجات وعروض'])[1]/preceding::a[1]</value>
+      <webElementGuid>353f407d-6b58-4cfe-8f04-816b270d9e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/teachers/tawjihi')]</value>
+      <webElementGuid>6d0b5343-14cf-4c34-9b45-263ecbe60fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]</value>
+      <webElementGuid>f3c3bbcd-b26b-407d-96b6-01bcf510eeb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/teachers/tawjihi' and (text() = 'معلمون' or . = 'معلمون')]</value>
+      <webElementGuid>7fce02b1-d496-4c8d-bec2-dfd00ae64857</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2__1</name>
+   <tag></tag>
+   <elementGuidId>75edf941-2e22-45f6-a48b-f2d476e0db78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/section[2]/div/div/article/section/header/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>f0753ace-444c-4ff3-9780-397dc27e6460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-line-clamp-2 tw-flex-1 tw-text-sm tw-font-bold sm:tw-text-[18px] tw-text-[#000] tw-text-[#1A428A]</value>
+      <webElementGuid>74c068f7-7867-46e0-8932-50c608783426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>مقدمة التكامل والقواعد الجزء الاول والثاني.</value>
+      <webElementGuid>1a39b13b-5410-4114-90e9-76959afe77b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-pb-[20px] sm:tw-pb-[50px]&quot;]/section[@class=&quot;tw-py-4&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center tw-mb-[35px] tw-h-full tw-gap-[10px] xl:tw-gap-[16px]&quot;]/div[@class=&quot;tw-relative tw-w-full&quot;]/article[@class=&quot;tw-flex tw-w-full tw-cursor-pointer tw-overflow-hidden tw-rounded-[10px] tw-border tw-gap-4 tw-p-4 tw-bg-[#F9F9F9]&quot;]/section[@class=&quot;tw-flex tw-flex-1 tw-grow tw-items-start tw-justify-between&quot;]/header[@class=&quot;tw-flex tw-w-full tw-cursor-pointer tw-flex-col tw-mt-2 tw-gap-4 hover:tw-bg-[#e8eefc2d] max-sm:tw-text-center&quot;]/h2[@class=&quot;tw-line-clamp-2 tw-flex-1 tw-text-sm tw-font-bold sm:tw-text-[18px] tw-text-[#000] tw-text-[#1A428A]&quot;]</value>
+      <webElementGuid>97dcec4a-6228-4703-859b-25582455bb48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/section[2]/div/div/article/section/header/h2</value>
+      <webElementGuid>f564518f-34ca-4599-b77c-c76b7416b078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مفضلتي'])[2]/following::h2[1]</value>
+      <webElementGuid>2e1caf33-2918-4652-89ff-278e21d22471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='فعاليات جو اكاديمي'])[1]/following::h2[1]</value>
+      <webElementGuid>27ceb104-9019-4d4b-864c-8afb8f771b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='رياضيات - علمي - فصل أول - 2007'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5f7f2262-2433-4a11-96fe-76599e14e349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اسامة العكور'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3d8c91b1-3924-46a6-bacc-4b70029f5123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='مقدمة التكامل والقواعد الجزء الاول والثاني.']/parent::*</value>
+      <webElementGuid>7b0e21bb-8e1d-4145-a24c-4adf35969b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>a8ac8909-1f5b-43a5-99b7-c9f8d087c7d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'مقدمة التكامل والقواعد الجزء الاول والثاني.' or . = 'مقدمة التكامل والقواعد الجزء الاول والثاني.')]</value>
+      <webElementGuid>760aaeda-af61-4c1c-b317-420bf04d53e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
