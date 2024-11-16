@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span__1_2_3_4_5_6</name>
+   <name>Mixed_Videos_Teacher_Profile</name>
    <tag></tag>
-   <elementGuidId>d552ccf8-cf50-42f3-8004-86d76ce7062c</elementGuidId>
+   <elementGuidId>e2543662-e786-4855-81c3-1de62adad851</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'مكس فيديو' or . = 'مكس فيديو')]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div/a[6]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>700401c5-8b5a-4422-9a1e-594a0a4a468f</webElementGuid>
+      <webElementGuid>1870ea93-c21a-471b-9e11-3bddafe5915a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>tw-px-5</value>
-      <webElementGuid>d815571c-c090-49da-b210-cb27b63e61ff</webElementGuid>
+      <webElementGuid>0fedd71b-cae3-4be8-b513-a4b37bc8d300</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>اختبارات المادة</value>
-      <webElementGuid>e51cde70-66bc-4c0f-a0bf-edbb99b31dd9</webElementGuid>
+      <value>مكس فيديو</value>
+      <webElementGuid>969e5b33-01de-488e-a2e9-81a749550a23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,70 +47,70 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;md:tw-p-5&quot;]/div[@class=&quot;tw-mt-2&quot;]/div[@class=&quot;hide-scroll !tw-z-20 tw-flex tw-h-14 !tw-w-full tw-items-start !tw-justify-start !tw-overflow-x-auto !tw-overflow-y-hidden !tw-rounded-none tw-border-[#1A428A33] !tw-bg-slate-50 tw-p-1  tw-text-slate-500 md:tw-inline-flex md:tw-items-center md:tw-justify-center md:tw-rounded-md md:tw-bg-slate-100 dark:tw-bg-slate-800 dark:tw-text-slate-400&quot;]/a[@class=&quot;tw-focus:tw-outline-none tw-focus:tw-ring-2 tw-focus:tw-ring-offset-2 tw-disabled:tw-pointer-events-none tw-disabled:tw-opacity-50 tw-inline-flex tw-h-full tw-w-full tw-items-center tw-justify-center tw-whitespace-nowrap tw-text-sm tw-transition-all regular !tw-rounded-none tw-border-b-4 tw-border-gray-300 tw-text-slate-500&quot;]/span[@class=&quot;tw-px-5&quot;]</value>
-      <webElementGuid>f1082010-bb98-46f1-aa38-ae602e67c111</webElementGuid>
+      <webElementGuid>a6a9dcf5-d934-4b15-a5cd-7f52156e06a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div/a[6]/span</value>
-      <webElementGuid>141d3c0e-5d8a-4d39-afa0-304e661e7127</webElementGuid>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div/a[7]/span</value>
+      <webElementGuid>db9ab868-b65d-497b-8d42-c13917c5e172</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='احداث مهمة'])[1]/following::span[1]</value>
-      <webElementGuid>faf533da-3dbd-450f-8d73-6a6870601367</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اختبارات المادة'])[1]/following::span[1]</value>
+      <webElementGuid>b7948ca7-9a7f-4b17-a0d5-34256fdbf8bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='الملفات والدوسيات'])[1]/following::span[2]</value>
-      <webElementGuid>9b6d6080-47d4-49c9-b880-184ccb308675</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='احداث مهمة'])[1]/following::span[2]</value>
+      <webElementGuid>e229f7ec-85f9-4cc5-9305-3a9008f833a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='مكس فيديو'])[1]/preceding::span[1]</value>
-      <webElementGuid>9051323b-11f4-4d8f-9c75-9b42639ddfb6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الاختبارات المتاحة'])[1]/preceding::span[1]</value>
+      <webElementGuid>7945ce7a-6236-4bcb-86c6-45ddc5f7bd77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/preceding::span[2]</value>
-      <webElementGuid>d3bc969b-c63b-424b-baee-eeba436f3921</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='امتحان تأسيس -أسامة العكور - اسامة العكور'])[1]/preceding::span[3]</value>
+      <webElementGuid>db8e115b-2b3c-4b76-b249-4eac5efb38c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='اختبارات المادة']/parent::*</value>
-      <webElementGuid>e7fce22c-8351-4dc7-b192-c1313041171e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='مكس فيديو']/parent::*</value>
+      <webElementGuid>1dfa0c6d-73ef-4f24-8f9c-947a24fd71cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/div/div/div/a[6]/span</value>
-      <webElementGuid>2ef60baf-42bd-4b20-92d1-0ed7791aa717</webElementGuid>
+      <value>//div[2]/div[2]/div/div/div/div/a[7]/span</value>
+      <webElementGuid>b3f2cd9e-5d66-436d-b4a5-6f4513bae053</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'اختبارات المادة' or . = 'اختبارات المادة')]</value>
-      <webElementGuid>f0b7dd36-0f18-4245-9a12-12db6d563e8e</webElementGuid>
+      <value>//span[(text() = 'مكس فيديو' or . = 'مكس فيديو')]</value>
+      <webElementGuid>88fa159e-7cea-470c-ae5f-ec4d403ef34c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span__1_2_3_4</name>
+   <name>Files_Teacher_Profile</name>
    <tag></tag>
    <elementGuidId>f30ec0f7-2932-4f0b-9ba9-9d73d7f410a4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[(text() = 'الملفات والدوسيات' or . = 'الملفات والدوسيات')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div/a[4]/span</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e2f30ce0-ef0c-4852-852b-52bd284a4982</webElementGuid>
+      <webElementGuid>dbdddd9a-e42a-4652-a7c8-55ee51483aea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tw-px-5</value>
-      <webElementGuid>04c39675-bd43-4488-8d28-55fe1eeae9df</webElementGuid>
+      <webElementGuid>e9db6391-92a9-42e9-9ce1-d9636672f874</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>الملفات والدوسيات</value>
-      <webElementGuid>49f73c89-4926-4e8a-9b92-4a5f4d30a1ca</webElementGuid>
+      <webElementGuid>6a80f199-d1f6-4864-a5d3-438cb2d16e69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;md:tw-p-5&quot;]/div[@class=&quot;tw-mt-2&quot;]/div[@class=&quot;hide-scroll !tw-z-20 tw-flex tw-h-14 !tw-w-full tw-items-start !tw-justify-start !tw-overflow-x-auto !tw-overflow-y-hidden !tw-rounded-none tw-border-[#1A428A33] !tw-bg-slate-50 tw-p-1  tw-text-slate-500 md:tw-inline-flex md:tw-items-center md:tw-justify-center md:tw-rounded-md md:tw-bg-slate-100 dark:tw-bg-slate-800 dark:tw-text-slate-400&quot;]/a[@class=&quot;tw-focus:tw-outline-none tw-focus:tw-ring-2 tw-focus:tw-ring-offset-2 tw-disabled:tw-pointer-events-none tw-disabled:tw-opacity-50 tw-inline-flex tw-h-full tw-w-full tw-items-center tw-justify-center tw-whitespace-nowrap tw-text-sm tw-transition-all regular !tw-rounded-none tw-border-b-4 tw-border-gray-300 tw-text-slate-500&quot;]/span[@class=&quot;tw-px-5&quot;]</value>
-      <webElementGuid>e9a684bd-5e9e-4ae1-9db8-5ad17704baf1</webElementGuid>
+      <webElementGuid>cccc77de-d742-44dd-a4f6-a1bb70e24f34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div/a[4]/span</value>
-      <webElementGuid>5f690061-e397-403c-b9fd-63c180b67a30</webElementGuid>
+      <webElementGuid>21ea513e-34b3-4738-865f-6f3e4620b6d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='شبابيك'])[1]/following::span[1]</value>
-      <webElementGuid>34cc05b8-7306-47db-8b45-ddfd26a23dcf</webElementGuid>
+      <webElementGuid>939767f7-b81c-4748-a458-e19537a3dcab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='الساعات المكتبية'])[1]/following::span[2]</value>
-      <webElementGuid>d658e921-aa5a-4cd5-88c9-a9d3e292dc23</webElementGuid>
+      <webElementGuid>750d5682-01d9-4cbf-b22b-af77c474258d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='احداث مهمة'])[1]/preceding::span[1]</value>
-      <webElementGuid>6de59ee7-630d-47c4-9738-d6831117b341</webElementGuid>
+      <webElementGuid>82e6ad12-e0c1-4028-989c-935563df656a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='اختبارات المادة'])[1]/preceding::span[2]</value>
-      <webElementGuid>43909484-0592-4809-affc-16816fa1d0ff</webElementGuid>
+      <webElementGuid>fe96adc1-d7dd-40d2-9285-e13e45461dc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='الملفات والدوسيات']/parent::*</value>
-      <webElementGuid>87c70ec9-a48c-4d33-aa56-8cb27683627f</webElementGuid>
+      <webElementGuid>ea6a71c4-6c28-4192-8688-1e1c8f03acb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div/a[4]/span</value>
-      <webElementGuid>a2128eb0-c61b-4dbe-ae85-0ec3a80cd799</webElementGuid>
+      <webElementGuid>7b595bad-7edd-4f78-90a8-bf537468e6b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'الملفات والدوسيات' or . = 'الملفات والدوسيات')]</value>
-      <webElementGuid>74e6adc7-0fc6-4e01-89a4-c2fb99a1e8d7</webElementGuid>
+      <webElementGuid>225b5f66-1a60-4aab-92da-5224fedc8e76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -16,7 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
 import loginCase.Login_Test_Case as Login_Test_Case
 
 // Create an instance of the LoginKeywords class
@@ -33,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/Login_Objects/Main_Menu_List- joac
 
 WebUI.setText(findTestObject('Object Repository/Login_Objects/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
 
-WebUI.verifyt (findTestObject('Object Repository/Teacher_Profile/Page_-   - joacademy.com/Teacher_Name_From_Teachers_Search'))
+//WebUI.verifyTextPresent(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Teachers_Name_on_Teachers_Card'),'اسامة العكور')
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Teachers_Name_on_Teachers_Card'))
 
@@ -43,21 +42,19 @@ WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_-   - joacade
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Groups_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Posts_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Files_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4_5'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Events_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4_5_6'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Exams_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4_5_6_7'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Mixed_Videos_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Files_Teacher_Profile'))
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__ant-select-selection-item'))
-
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/div_'))
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/span__1_2_3_4_5_6_7_8'))
 
@@ -65,9 +62,9 @@ WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.c
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/i__ri-download-2-line tw-text-16px hovertw-_12563d'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/button__1'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/Share_File_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/div__1_2'))
+WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/File_Link_Copied_Success_Msg'))
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Page_- joacademy.com/i__ri-heart-3-fill actions_font-size-24px__cZD_q'))
 
