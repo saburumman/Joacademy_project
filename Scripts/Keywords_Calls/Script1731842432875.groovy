@@ -98,3 +98,6 @@ unsaveFavFileTC.unSaveFavFile()
 WebUI.comment("Unsaving File from Teacher Profile is done successfully.")
 
 
+
+// Close the browser
+WebUI.closeBrowser()
