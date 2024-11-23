@@ -38,3 +38,5 @@ if (shareTeachertextExists) {
 	WebUI.comment('The text does not exist: ' + shareExpectedText)
 }
 
+WebUI.takeScreenshot('Screenshots/Targets/Share_Teacher_Profile_Link')
+

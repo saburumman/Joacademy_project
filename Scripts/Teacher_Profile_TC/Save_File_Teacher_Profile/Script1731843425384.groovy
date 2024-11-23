@@ -16,6 +16,17 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.testobject.TestObject
+import com.kms.katalon.core.testobject.ConditionType
+
+// Function to create a dynamic TestObject
+TestObject createDynamicObject(String xpath) {
+	TestObject dynamicObject = new TestObject()
+	dynamicObject.addProperty("xpath", ConditionType.EQUALS, xpath)
+	return dynamicObject
+}
+
 
 // Navigate to files tab
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Files_Teacher_Profile'))
@@ -39,20 +50,32 @@ WebUI.click(findTestObject('Object Repository/Teacher_Profile/File_Link_Copied_S
 //Add file to Favorite
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Add_File_to_Fav_Teacher_Profile'))
 
+WebUI.takeScreenshot('Screenshots/Targets/Save_File_Teacher_Profile')
+
+
 //Save the file's name from the teacher card in an obj then get the string
-def savedFile = findTestObject('Teacher_Profile/Added_to_Fav_File_Teacher_Profile')
+// Create a dynamic TestObject for the <p> element
+TestObject savedFile = createDynamicObject("//p[contains(@class, 'tw-font-semibold')]")
 
-String savedFileName = WebUI.getText(savedFile)
+// Get the text of the <p> element
+String saveFileTextTeacherProfile = WebUI.getText(savedFile)
 
+// Print the dynamic text
+println("Dynamic Text: " + saveFileTextTeacherProfile)
 //Go to favorite page
 WebUI.click(findTestObject('Favorite_Page/Fav_From_Side_Menu'))
 
-//Check if the file is for the same saved from teacher's profile
-boolean isSameFileNamePresent = WebUI.verifyTextPresent(savedFileName, false // 'false' makes it case-insensitive
-	)
 
-if (isSameFileNamePresent) {
-	WebUI.comment('Same File I Saved is Found!')
+TestObject savedFileFavPage = createDynamicObject("//h2[contains(@class, 'tw-font-bold')]")
+
+// Get the text of the <p> element
+String saveFileTextFavPage = WebUI.getText(savedFileFavPage)
+
+
+//Check if the file is for the same saved from teacher's profile
+// Compare the texts
+if (saveFileTextTeacherProfile.equals(saveFileTextFavPage)) {
+    println("✅ The texts match!")
 } else {
-	WebUI.comment('Not the Same File I Saved! BUG!!!!')
+    println("❌ The texts do NOT match!")
 }

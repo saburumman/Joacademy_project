@@ -28,7 +28,7 @@ public class Follow_Teacher_From_Profile {
 		// Ensure the page is fully loaded before proceeding
 		WebUI.waitForPageLoad(10)
 		WebUI.delay(5)
-		
+
 		// Define the expected text
 		String followExpectedText = 'متابعة الاستاذ'
 		String unfollowExpectedText = 'الغاء المتابعة'
@@ -42,10 +42,14 @@ public class Follow_Teacher_From_Profile {
 			// If "Follow" button exists, click it
 			WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'))
 			WebUI.comment('Action performed: Follow action completed' + followExpectedText )
+			WebUI.takeScreenshot('Screenshots/Targets/Follow_Teacher')
+		
 		} else {
 			// If "Follow" button does not exist, click "Unfollow" button
 			WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'))
 			WebUI.comment('Action performed: Unfollow action completed' + unfollowExpectedText)
+			WebUI.takeScreenshot('Screenshots/Targets/Unfollow_Teacher')
+			
 		}
 	}
 }

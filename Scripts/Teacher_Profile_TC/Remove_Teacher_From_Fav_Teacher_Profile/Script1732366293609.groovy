@@ -17,22 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+// Define the expected text
 String favExpectedText = 'اضافة للمفضلة'
 String unfavExpectedText = 'ازالة من المفضلة'
 
-//Find unFav Button  and click it
+//Find unFav Button
 boolean unFavTeacherActualText = WebUI.verifyElementPresent(findTestObject('Object Repository/Actions_on_Teacher_Profile/Unfav_Teacher_on_Teacher_Profile'), 5, FailureHandling.OPTIONAL)
 
-// Assert the result
+// Check if the "UnFav" button is present in the DOM
 if (unFavTeacherActualText) {
-	
+	// If "UnFav" button exists, click it
 	WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Unfav_Teacher_on_Teacher_Profile'))
 	WebUI.comment('Action performed: Remove from Fav action completed')
-	
+	WebUI.takeScreenshot('Screenshots/Targets/Unfav_Teacher')
 	
 } else {
-	
+	// If "UnFav" button does not exist, click "Fav" button
 	WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Add_Teacher_to_Fav_Teacher_Profile'))
 	WebUI.comment('Action performed: Adding to Fav action completed')
+	WebUI.takeScreenshot('Screenshots/Targets/Fav_Teacher')
 	
 }

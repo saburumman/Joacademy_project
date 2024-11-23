@@ -28,12 +28,13 @@ def teacherNameOnCard = findTestObject('Object Repository/Teacher_Profile/Teache
 
 String saveTeacherName = WebUI.getText(teacherNameOnCard)
 
+WebUI.takeScreenshot('Screenshots/Targets/Teacher_I_Searched_For')
+
 //Go to the teacher's profile
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Teachers_Name_on_Teachers_Card'))
 
 //Check if the profile is for the same selected teacher
-boolean isSameTeacherNamePresent = WebUI.verifyTextPresent(saveTeacherName, false // 'false' makes it case-insensitive
-	)
+boolean isSameTeacherNamePresent = WebUI.verifyTextPresent(saveTeacherName, false) // 'false' makes it case-insensitive
 
 if (isSameTeacherNamePresent) {
 	WebUI.comment('Same Teacher I Searched For is Found!')
@@ -41,19 +42,30 @@ if (isSameTeacherNamePresent) {
 	WebUI.comment('Not Same Teacher I Searched For! BUG!!!!')
 }
 
+WebUI.takeScreenshot('Screenshots/Targets/Teacher_Profile')
+
 // Navigate between teacher's profile tabs
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Office_Hours_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Office_Hours_Teacher_Profile')
+
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Shbabek_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Shbabek_Teacher_Profile')
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Groups_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Groups_Teacher_Profile')
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Posts_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Posts_Teacher_Profile')
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Files_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Files_Teacher_Profile')
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Events_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Events_Teacher_Profile')
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Exams_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Exams_Teacher_Profile')
 
 WebUI.click(findTestObject('Object Repository/Teacher_Profile/Mixed_Videos_Teacher_Profile'))
+WebUI.takeScreenshot('Screenshots/Targets/Mixed_Videos_Teacher_Profile')

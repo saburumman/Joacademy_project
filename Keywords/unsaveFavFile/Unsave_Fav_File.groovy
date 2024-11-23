@@ -38,5 +38,8 @@ public class Unsave_Fav_File {
 
 		//Veify Element is not present
 		WebUI.verifyElementNotPresent(findTestObject('Favorite_Page/Nothing_Added_to_Fav'), 0)
+		
+		WebUI.takeScreenshot('Screenshots/Targets/Unsave_File')
+		
 	}
 }

@@ -25,7 +25,7 @@ public class Share_Teacher_Profile_Link {
 
 	@Keyword
 	def shareTeacherProfile() {
-		
+
 		//Copy Teacher Profile Link
 		WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Share_Teacher_Profile'))
 
@@ -44,5 +44,7 @@ public class Share_Teacher_Profile_Link {
 		} else {
 			WebUI.comment('The text does not exist: ' + shareExpectedText)
 		}
+		WebUI.takeScreenshot('Screenshots/Targets/Share_Teacher_Profile_Link')
+		
 	}
 }

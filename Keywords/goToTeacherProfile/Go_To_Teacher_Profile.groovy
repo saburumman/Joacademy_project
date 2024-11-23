@@ -30,12 +30,12 @@ public class Go_To_Teacher_Profile {
 
 		//Search for a teacher
 		WebUI.setText(findTestObject('Object Repository/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
-		
+
 		WebUI.waitForPageLoad(20)
+		WebUI.delay(2)
+		
 
 		//Go to the teacher's profile
-		WebUI.click(findTestObject('Object Repository/Teacher_Profile/Teachers_Name_on_Teachers_Card'))
-
-		
+		WebUI.click(findTestObject('Object Repository/Teachers_Page- joacademy.com/Teacher_Card'))
 	}
 }
