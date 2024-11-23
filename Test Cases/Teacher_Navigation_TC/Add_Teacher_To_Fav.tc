@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Teacher_To_Fav</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e33f02a-01a1-4e15-8040-c583c64d3fa7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Save_File_Teacher_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06542c80-d843-4de9-b68e-01419f1cae5d</testCaseGuid>
+</TestCaseEntity>

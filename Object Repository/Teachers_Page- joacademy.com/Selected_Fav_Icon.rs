@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Selected_Fav_Icon</name>
+   <tag></tag>
+   <elementGuidId>82b879b5-dff5-448d-80d1-742e0a8e4163</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/div/div/div/div/div/a/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ri-heart-3-fill</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;معلم جو اكاديمي  معلم جو اكاديمي user-add متابعة الاستاذ&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>410021d1-2f12-42b4-9af5-5cfac930c4a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-heart-3-fill transition tw-absolute tw-end-5 tw-top-4 tw-text-[24px] tw-duration-300 tw-text-red-600</value>
+      <webElementGuid>2b23d11b-4687-4988-9de8-71490eb9c331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-pb-[20px] sm:tw-pb-[50px]&quot;]/div[@class=&quot;ant-row ant-row-center ant-row-middle ant-row-rtl  shared_full-width__6Fhsp css-14i19y2&quot;]/div[@class=&quot;ant-spin-nested-loading css-14i19y2&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-row ant-row-rtl css-14i19y2&quot;]/div[@class=&quot;ant-col ant-col-xs-12 ant-col-rtl ant-col-md-8 ant-col-lg-8 ant-col-xl-6 css-14i19y2&quot;]/a[@class=&quot;tw-cursor-pointer&quot;]/div[@class=&quot;tw-flex tw-max-h-[20rem] tw-min-h-[20rem] tw-flex-1 tw-flex-col  tw-rounded-lg tw-bg-white tw-p-5 tw-shadow hover:tw-shadow-[0_10px_10px_0_rgba(0,0,0,0.2)]&quot;]/div[@class=&quot;tw-flex tw-items-center tw-justify-center&quot;]/i[@class=&quot;ri-heart-3-fill transition tw-absolute tw-end-5 tw-top-4 tw-text-[24px] tw-duration-300 tw-text-red-600&quot;]</value>
+      <webElementGuid>7abee55a-10af-4245-9bc8-e1f3a24f4ed7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/div/div/div/div/div/a/div/div/i</value>
+      <webElementGuid>0b9829fa-b6e4-48e0-9c62-73256d0f9382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/i</value>
+      <webElementGuid>bd62e82c-0923-4dd3-a0d1-32e95c633a4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

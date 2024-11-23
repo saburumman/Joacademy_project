@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Teacher_Tab_In_Fav_Page</name>
+   <tag></tag>
+   <elementGuidId>d5623435-70c0-4574-ac17-8f573afc05fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'معلمون' or . = 'معلمون')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;معلمون&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5a70a8c2-525a-4e91-b296-e8679aa8e834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-whitespace-nowrap tw-text-center tw-text-[16px] tw-font-normal tw-text-[#0D2755]</value>
+      <webElementGuid>fbe5630e-f444-40ee-8be1-6b886ee4b761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>معلمون</value>
+      <webElementGuid>65c6c92f-6c2b-4892-bea3-b611093c8c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-pb-[20px] sm:tw-pb-[50px]&quot;]/section[@class=&quot;tw-mb-[10px] tw-flex tw-flex-wrap tw-items-center tw-gap-[10px]&quot;]/button[@class=&quot;tw-flex tw-h-[45px] tw-items-center tw-justify-center tw-gap-[10px] tw-rounded-[14px] tw-px-[20px] tw-py-[10px] tw-font-semibold tw-shadow tw-transition tw-duration-150 tw-ease-in-out hover:tw-bg-[#efefef] tw-bg-white&quot;]/p[@class=&quot;tw-whitespace-nowrap tw-text-center tw-text-[16px] tw-font-normal tw-text-[#0D2755]&quot;]</value>
+      <webElementGuid>4b8b09b8-afbd-48af-8674-6b4ebbcf00df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/main/section/button[3]/p</value>
+      <webElementGuid>4e919f02-3286-444c-bcd6-e46ec96c8149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مفضلتي'])[2]/following::p[4]</value>
+      <webElementGuid>34703ae2-c9b5-46a6-ac5f-b3b578b4a885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='فعاليات جو اكاديمي'])[1]/following::p[4]</value>
+      <webElementGuid>bd1daaa7-5cd0-4ef1-b364-13cbc3868f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تذييل جو أكاديمي'])[1]/preceding::p[2]</value>
+      <webElementGuid>2127708d-2453-4ccf-95ad-52c95ea1f244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='روابط سريعة'])[1]/preceding::p[2]</value>
+      <webElementGuid>f230eb71-1470-4849-9ae2-7786f3d378db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/p</value>
+      <webElementGuid>e1112eb9-5b5b-4b5f-92af-0c501b87e913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'معلمون' or . = 'معلمون')]</value>
+      <webElementGuid>070ce5d6-7b29-4508-9bcf-de71f237589c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

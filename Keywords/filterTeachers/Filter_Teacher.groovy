@@ -25,7 +25,7 @@ public class Filter_Teacher {
 	@Keyword
 	def filterTeacher() {
 
-	WebUI.click(findTestObject('Login_Objects/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
+	WebUI.click(findTestObject('Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
 
     WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Choose_Proram_From_Filters'))
 

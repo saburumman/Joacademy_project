@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unsave_Teacher_From_Fav</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1ab8e75-0235-44bb-b876-1f54aa1ae84f</testCaseGuid>
+</TestCaseEntity>
