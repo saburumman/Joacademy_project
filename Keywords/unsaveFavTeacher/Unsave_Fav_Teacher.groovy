@@ -27,15 +27,16 @@ public class Unsave_Fav_Teacher {
 	def unSaveFavTeacher() {
 
 		//Un-save Teacher
-		WebUI.doubleClick(findTestObject('Object Repository/Teachers_Page- joacademy.com/Selected_Fav_Icon'))
+		WebUI.click(findTestObject('Object Repository/Teachers_Page- joacademy.com/Selected_Fav_Icon'))
 
 		//Navigate to Courses, to refresh Teachers tab
 		WebUI.click(findTestObject('Object Repository/Favorite_Page/Courses_Fav'))
 
 		//Navigate back to Teachers tab
 		WebUI.click(findTestObject('Object Repository/Favorite_Page/Teacher_Tab_In_Fav_Page'))
-
+		
 		//Verify Element is not present
 		WebUI.verifyElementNotPresent(findTestObject('Teachers_Page- joacademy.com/Selected_Fav_Icon'), 0)
+
 	}
 }

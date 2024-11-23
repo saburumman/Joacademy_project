@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //Unsave Teacher
-WebUI.doubleClick(findTestObject('Object Repository/Teachers_Page- joacademy.com/Selected_Fav_Icon'))
+WebUI.click(findTestObject('Object Repository/Teachers_Page- joacademy.com/Selected_Fav_Icon'))
 
 //Navigate to Courses, to refresh Teachers tab
 WebUI.click(findTestObject('Object Repository/Favorite_Page/Courses_Fav'))
@@ -30,3 +30,5 @@ WebUI.click(findTestObject('Favorite_Page/Teacher_Tab_In_Fav_Page'))
 
 //Veify Element is not present
 WebUI.verifyElementNotPresent(findTestObject('Teachers_Page- joacademy.com/Selected_Fav_Icon'), 0)
+
+

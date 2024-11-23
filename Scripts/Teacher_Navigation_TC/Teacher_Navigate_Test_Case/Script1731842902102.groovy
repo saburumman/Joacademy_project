@@ -115,14 +115,5 @@ import loginCase.Login_Test_Case as Login_Test_Case
 
 		WebUI.takeScreenshot('Screenshots/Page1.png')
 
-		//No Results Test Case
-		WebUI.setText(findTestObject('Object Repository/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'حسام باسل ع')
-
-		WebUI.verifyElementPresent(findTestObject('Object Repository/Teachers_Page- joacademy.com/No_Search_Results'), 0)
-
-		WebUI.takeScreenshot('Screenshots/Teachers_No_Results.png')
-
-		WebUI.click(findTestObject('Teachers_Page- joacademy.com/Reset_Filters'))
-
-
+	
 

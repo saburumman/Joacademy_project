@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Go_To_Teacher_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fff35e60-820e-4ed8-bfa2-f83e9b4f72d2</testCaseGuid>
+</TestCaseEntity>

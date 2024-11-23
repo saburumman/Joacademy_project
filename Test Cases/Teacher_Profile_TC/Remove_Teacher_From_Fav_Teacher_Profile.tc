@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove_Teacher_From_Fav_Teacher_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7b45bfd-2061-4e5b-9172-fab085f951f7</testCaseGuid>
+</TestCaseEntity>

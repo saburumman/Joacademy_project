@@ -122,6 +122,5 @@ public class Teacher_Navigate {
 		WebUI.click(findTestObject('Object Repository/Teachers_Page- joacademy.com/Teachers_Page_1'))
 
 		WebUI.takeScreenshot('Screenshots/Page1.png')
-
 	}
 }
