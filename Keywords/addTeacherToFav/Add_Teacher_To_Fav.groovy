@@ -21,12 +21,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import com.kms.katalon.core.webui.driver.DriverFactory;
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import com.kms.katalon.core.webui.driver.DriverFactory;
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI;
 
 import internal.GlobalVariable
 

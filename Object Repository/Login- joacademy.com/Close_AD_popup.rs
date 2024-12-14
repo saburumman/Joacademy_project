@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[aria-label='Close']</value>
+         <value>i.ri-close-line</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>96a51677-db70-4058-8916-870598380e14</webElementGuid>
+      <webElementGuid>2ae4f227-9ca9-496c-9670-cd455152ebc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ri-close-line</value>
-      <webElementGuid>584ace4b-ec58-4722-b104-c071a91a57f5</webElementGuid>
+      <webElementGuid>75a294a7-8e56-44ce-92e8-6fa83c61ac6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[1]/div[2]/div[@class=&quot;ant-modal-root css-14i19y2&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-wrap-rtl&quot;]/div[@class=&quot;ant-modal css-14i19y2 blackFrdiayModal&quot;]/div[2]/div[@class=&quot;ant-modal-content&quot;]/button[@class=&quot;ant-modal-close&quot;]/span[@class=&quot;ant-modal-close-x&quot;]/div[1]/i[@class=&quot;ri-close-line&quot;]</value>
-      <webElementGuid>1536124b-ef82-44e9-ae70-28e24145e63f</webElementGuid>
+      <webElementGuid>1ed3e734-736c-4f03-9a4b-902bbf21d412</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div/i</value>
-      <webElementGuid>29a1ea7e-2aa5-4353-b2e2-f4e028d7b07a</webElementGuid>
+      <webElementGuid>ed3450e4-c553-4950-a21c-9c9fdc2fc24b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
