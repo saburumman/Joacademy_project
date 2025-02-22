@@ -6,15 +6,14 @@
    <elementGuidId>a5e34e12-891b-4b9b-b67e-387fbfbae431</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//h1[(text() = 'المعلمون -  الثانوية العامة' or . = 'المعلمون -  الثانوية العامة')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

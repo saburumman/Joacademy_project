@@ -27,16 +27,16 @@ String followExpectedText = 'متابعة الاستاذ'
 String unfollowExpectedText = 'الغاء المتابعة'
 
 // Check if the text exists
-boolean followTextExists = WebUI.verifyElementPresent(findTestObject('Object Repository/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'), 5, FailureHandling.OPTIONAL)
+boolean followTextExists = WebUI.verifyElementPresent(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'), 5, FailureHandling.OPTIONAL)
 
 
 // Check if the "Follow" button is present in the DOM
 if (followTextExists) {
 	// If "Follow" button exists, click it
-	WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'))
+	WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'))
 	WebUI.comment('Action performed: Follow action completed' + followExpectedText )
 } else {
 	// If "Follow" button does not exist, click "Unfollow" button
-	WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'))
+	WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'))
 	WebUI.comment('Action performed: Unfollow action completed' + unfollowExpectedText)
 }

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Teacher_Card</name>
+   <name>Cart_Icon</name>
    <tag></tag>
-   <elementGuidId>43e4edb1-9a60-4e39-903c-a5f1f51ed5d5</elementGuidId>
+   <elementGuidId>6201aba6-392d-4181-9d51-315accc0dfc4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h3.tw-line-clamp-5.tw-font-normal</value>
+         <value>[href='/cart']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

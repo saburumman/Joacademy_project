@@ -30,18 +30,18 @@ public class Unfollow_Teacher_From_Profile {
 		String unfollowExpectedText = 'الغاء المتابعة'
 
 		// Check if the text exists
-		boolean unfollowTextExists = WebUI.verifyElementPresent(findTestObject('Object Repository/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'), 5, FailureHandling.OPTIONAL)
+		boolean unfollowTextExists = WebUI.verifyElementPresent(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'), 5, FailureHandling.OPTIONAL)
 
 		// Check if the "Unfollow" button is present in the DOM
 		if (unfollowExpectedText) {
 			// If "Unfollow" button exists, click it
-			WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'))
+			WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'))
 			WebUI.comment('Action performed: Unfollow action completed' + unfollowExpectedText)
 			WebUI.takeScreenshot('Screenshots/Targets/Unfollow_Teacher')
 		} else {
 			// If "Unfollow" button does not exist, click "Follow" button
 
-			WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'))
+			WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'))
 			WebUI.comment('Action performed: Follow action completed' + followExpectedText )
 			WebUI.takeScreenshot('Screenshots/Targets/Follow_Teacher')
 		}

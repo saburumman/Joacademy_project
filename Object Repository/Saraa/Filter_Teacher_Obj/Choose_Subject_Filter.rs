@@ -6,12 +6,12 @@
    <elementGuidId>f1163bf9-2efd-4cff-9295-993f390e88c6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-4-option-0</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر المواد'])[1]/following::div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-4-option-0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

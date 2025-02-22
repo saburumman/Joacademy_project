@@ -18,17 +18,17 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //Unsave File
-WebUI.click(findTestObject('Favorite_Page/Saved_File_In_Fav_Page'))
+WebUI.click(findTestObject('Saraa/Favorite_Page/Saved_File_In_Fav_Page'))
 
 //Navigate to Courses, to refresh Teachers tab
-WebUI.click(findTestObject('Object Repository/Favorite_Page/Courses_Fav'))
+WebUI.click(findTestObject('Object Repository/Saraa/Favorite_Page/Courses_Fav'))
 
 WebUI.delay(5)
 
 //Navigate back to Files tab
-WebUI.click(findTestObject('Favorite_Page/Files_Tab_In_Fav_Page'))
+WebUI.click(findTestObject('Saraa/Favorite_Page/Files_Tab_In_Fav_Page'))
 
 //Veify Element is not present
-WebUI.verifyElementNotPresent(findTestObject('Favorite_Page/Nothing_Added_to_Fav'), 0)
+WebUI.verifyElementNotPresent(findTestObject('Saraa/Favorite_Page/Nothing_Added_to_Fav'), 0)
 
 WebUI.takeScreenshot('Screenshots/Targets/Unsave_File')

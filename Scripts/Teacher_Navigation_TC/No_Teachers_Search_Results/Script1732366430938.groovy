@@ -18,11 +18,11 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //No Results Test Case
-WebUI.setText(findTestObject('Object Repository/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'حسام باسل ع')
+WebUI.setText(findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'حسام باسل ع')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Teachers_Page- joacademy.com/No_Search_Results'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/No_Search_Results'), 0)
 
 WebUI.takeScreenshot('Screenshots/Teachers_No_Results.png')
 
-WebUI.click(findTestObject('Teachers_Page- joacademy.com/Reset_Filters'))
+WebUI.click(findTestObject('Saraa/Teachers_Page- joacademy.com/Reset_Filters'))
 

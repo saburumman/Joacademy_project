@@ -29,29 +29,29 @@ TestObject createDynamicObject(String xpath) {
 
 
 // Navigate to files tab
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Files_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Files_Teacher_Profile'))
 
 //Filter to show the files only
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Filter_Files_Based_on_Program_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Filter_Files_Based_on_Program_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Choose_Program_Option_Filter_File_Program'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Choose_Program_Option_Filter_File_Program'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Filter_File_Type_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Filter_File_Type_Teacher_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Choose_Files_Option_Filter_File_Type_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Choose_Files_Option_Filter_File_Type_Teacher_Profile'))
 
 //Download the first file
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Download_File_btn_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Download_File_btn_Teacher_Profile'))
 
 //Share the first file
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Share_File_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Share_File_Teacher_Profile'))
 
 //Check the file's link is copied successfully
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/File_Link_Copied_Success_Msg'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/File_Link_Copied_Success_Msg'))
 
 WebUI.waitForPageLoad(20)
 //Add file to Favorite
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Add_File_to_Fav_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Add_File_to_Fav_Teacher_Profile'))
 
 WebUI.takeScreenshot('Screenshots/Targets/Save_File_Teacher_Profile')
 
@@ -66,7 +66,7 @@ String saveFileTextTeacherProfile = WebUI.getText(savedFile)
 // Print the dynamic text
 println("Dynamic Text: " + saveFileTextTeacherProfile)
 //Go to favorite page
-WebUI.click(findTestObject('Favorite_Page/Fav_From_Side_Menu'))
+WebUI.click(findTestObject('Saraa/Favorite_Page/Fav_From_Side_Menu'))
 
 
 TestObject savedFileFavPage = createDynamicObject("//h2[contains(@class, 'tw-font-bold')]")

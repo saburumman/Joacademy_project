@@ -22,19 +22,19 @@ import org.openqa.selenium.Keys as Keys
 		String unfavExpectedText = 'ازالة من المفضلة'
 		
 		// Check if the text exists
-		boolean favTeacherActualText = WebUI.verifyElementPresent(findTestObject('Object Repository/Actions_on_Teacher_Profile/Add_Teacher_to_Fav_Teacher_Profile'), 5, FailureHandling.OPTIONAL)
+		boolean favTeacherActualText = WebUI.verifyElementPresent(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Add_Teacher_to_Fav_Teacher_Profile'), 5, FailureHandling.OPTIONAL)
 		
 		// Check if the "Fav" button is present in the DOM
 		if (favTeacherActualText) {
 			// If "Fav" button exists, click it
-			WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Add_Teacher_to_Fav_Teacher_Profile'))
+			WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Add_Teacher_to_Fav_Teacher_Profile'))
 			WebUI.comment('Action performed: Adding to Fav action completed')
 			WebUI.takeScreenshot('Screenshots/Targets/Fav_Teacher')
 			
 			
 		} else {
 			// If "Fav" button does not exist, click "UnFav" button
-			WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Unfav_Teacher_on_Teacher_Profile'))
+			WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Unfav_Teacher_on_Teacher_Profile'))
 			WebUI.comment('Action performed: Remove from Fav action completed')
 			WebUI.takeScreenshot('Screenshots/Targets/Unfav_Teacher')
 			

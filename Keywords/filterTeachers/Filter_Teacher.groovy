@@ -25,22 +25,22 @@ public class Filter_Teacher {
 	@Keyword
 	def filterTeacher() {
 
-	WebUI.click(findTestObject('Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
+	WebUI.click(findTestObject('Saraa/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
 
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Choose_Proram_From_Filters'))
+    WebUI.click(findTestObject('Object Repository/Saraa/Filter_Teacher_Obj/Choose_Proram_From_Filters'))
 
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Filter_Option__for_Program'))
+    WebUI.click(findTestObject('Object Repository/Saraa/Filter_Teacher_Obj/Filter_Option__for_Program'))
 
-    WebUI.click(findTestObject('Filter_Teacher_Obj/Choose_Section_Filter_'))
+    WebUI.click(findTestObject('Saraa/Filter_Teacher_Obj/Choose_Section_Filter_'))
 
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Filter_Section_Option'))
+    WebUI.click(findTestObject('Object Repository/Saraa/Filter_Teacher_Obj/Filter_Section_Option'))
 
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Filter_Subject_Option'))
+    WebUI.click(findTestObject('Object Repository/Saraa/Filter_Teacher_Obj/Filter_Subject_Option'))
 
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Choose_Subject_Filter'))
+    WebUI.click(findTestObject('Object Repository/Saraa/Filter_Teacher_Obj/Choose_Subject_Filter'))
 
 
-    WebUI.click(findTestObject('Object Repository/Filter_Teacher_Obj/Button_Reset_Filters'))
+    WebUI.click(findTestObject('Object Repository/Saraa/Filter_Teacher_Obj/Button_Reset_Filters'))
 
 	}
 }

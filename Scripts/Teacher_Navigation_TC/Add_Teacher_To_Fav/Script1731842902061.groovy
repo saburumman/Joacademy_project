@@ -22,17 +22,17 @@ import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
-///Search for a teacher to Save
-		WebUI.setText(findTestObject('Object Repository/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'معلم جو اكاديمي')
+		//Search for a teacher to Save
+		WebUI.setText(findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'معلم جو اكاديمي')
 
 		//Save the photo name of the targeted teacher to check if the same teacher is saved
-		def savedTeacher = findTestObject('Object Repository/Teachers_Page- joacademy.com/Saved_Teacher_Photo')
+		def savedTeacher = findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Saved_Teacher_Photo')
 		String teacherImageAlt = WebUI.getAttribute(savedTeacher, 'alt')
 
 		//Click on heart icon to save teacher
-		WebUI.click(findTestObject('Object Repository/Teachers_Page- joacademy.com/Add_Teacher_to_Fav_Heart'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Add_Teacher_to_Fav_Heart'))
 
-		TestObject FavSideMenu = findTestObject('Object Repository/Favorite_Page/Fav_From_Side_Menu')
+		TestObject FavSideMenu = findTestObject('Object Repository/Saraa/Favorite_Page/Fav_From_Side_Menu')
 
 		// Scroll to the element
 		WebUI.scrollToElement(FavSideMenu, 5)
@@ -41,18 +41,18 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 		JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
 		js.executeScript("arguments[0].scrollIntoView({block: 'center', inline: 'nearest'});", WebUI.findWebElement(FavSideMenu))
 		//Go to Favorite Page
-		WebUI.click(findTestObject('Object Repository/Favorite_Page/Fav_From_Side_Menu'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Favorite_Page/Fav_From_Side_Menu'))
 
 		//Navigate to teachers tab in favorite page
-		WebUI.click(findTestObject('Object Repository/Favorite_Page/Teacher_Tab_In_Fav_Page'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Favorite_Page/Teacher_Tab_In_Fav_Page'))
 		//Go to Favorite Page
-		WebUI.click(findTestObject('Object Repository/Favorite_Page/Fav_From_Side_Menu'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Favorite_Page/Fav_From_Side_Menu'))
 
 		//Navigate to teachers tab in favorite page
-		WebUI.click(findTestObject('Object Repository/Favorite_Page/Teacher_Tab_In_Fav_Page'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Favorite_Page/Teacher_Tab_In_Fav_Page'))
 
 		//Check if the saved teacher is the same one I saved in the teachers list
-		def dynamicImageObject = findTestObject('Object Repository/Teachers_Page- joacademy.com/Saved_Teacher_Photo', [('altValue') : teacherImageAlt])
+		def dynamicImageObject = findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Saved_Teacher_Photo', [('altValue') : teacherImageAlt])
 
 		boolean isTeacherPresent = WebUI.verifyElementPresent(dynamicImageObject, 10)
 
@@ -61,3 +61,6 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 		} else {
 			WebUI.comment('The same saved teacher is not found on the new page.')
 		}
+		
+
+		// will this work any way?

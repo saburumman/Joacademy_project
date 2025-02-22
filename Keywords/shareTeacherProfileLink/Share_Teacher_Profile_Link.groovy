@@ -27,16 +27,16 @@ public class Share_Teacher_Profile_Link {
 	def shareTeacherProfile() {
 
 		//Copy Teacher Profile Link
-		WebUI.click(findTestObject('Object Repository/Actions_on_Teacher_Profile/Share_Teacher_Profile'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Share_Teacher_Profile'))
 
 		//Make sure URL Link is Copied
 		// Define the expected text
 		String shareExpectedText = 'تم نسخ الرابط'
 
-		def shareTeacherActualText = findTestObject('Object Repository/Actions_on_Teacher_Profile/Success_msg_Teacher_Profile_Copied')
+		def shareTeacherActualText = findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Success_msg_Teacher_Profile_Copied')
 
 		// Check if the text exists within the specified <h1> element
-		boolean shareTeachertextExists = WebUI.verifyElementText(findTestObject('Object Repository/Actions_on_Teacher_Profile/Success_msg_Teacher_Profile_Copied'), shareExpectedText)
+		boolean shareTeachertextExists = WebUI.verifyElementText(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Success_msg_Teacher_Profile_Copied'), shareExpectedText)
 
 		// Assert the text exists
 		if (shareTeachertextExists) {

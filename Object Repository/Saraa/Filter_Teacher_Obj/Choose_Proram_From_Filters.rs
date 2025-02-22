@@ -6,12 +6,12 @@
    <elementGuidId>f7299a3b-6ab7-46c6-aabb-f5694f3ea4e1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.css-19bb58m</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر البرنامج'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-19bb58m</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

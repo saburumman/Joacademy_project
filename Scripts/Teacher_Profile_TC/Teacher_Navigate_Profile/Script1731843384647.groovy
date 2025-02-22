@@ -18,20 +18,20 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //Navigate to teacher's page
-WebUI.click(findTestObject('Object Repository/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
+WebUI.click(findTestObject('Object Repository/Saraa/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
 
 //Search for a teacher
-WebUI.setText(findTestObject('Object Repository/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
+WebUI.setText(findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
 
 //Save the teacher's name from the teacher card in an obj then get the string
-def teacherNameOnCard = findTestObject('Object Repository/Teacher_Profile/Teachers_Name_on_Teachers_Card')
+def teacherNameOnCard = findTestObject('Object Repository/Saraa/Teacher_Profile/Teachers_Name_on_Teachers_Card')
 
 String saveTeacherName = WebUI.getText(teacherNameOnCard)
 
 WebUI.takeScreenshot('Screenshots/Targets/Teacher_I_Searched_For')
 
 //Go to the teacher's profile
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Teachers_Name_on_Teachers_Card'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Teachers_Name_on_Teachers_Card'))
 
 //Check if the profile is for the same selected teacher
 boolean isSameTeacherNamePresent = WebUI.verifyTextPresent(saveTeacherName, false) // 'false' makes it case-insensitive
@@ -45,27 +45,27 @@ if (isSameTeacherNamePresent) {
 WebUI.takeScreenshot('Screenshots/Targets/Teacher_Profile')
 
 // Navigate between teacher's profile tabs
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Office_Hours_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Office_Hours_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Office_Hours_Teacher_Profile')
 
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Shbabek_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Shbabek_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Shbabek_Teacher_Profile')
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Groups_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Groups_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Groups_Teacher_Profile')
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Posts_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Posts_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Posts_Teacher_Profile')
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Files_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Files_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Files_Teacher_Profile')
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Events_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Events_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Events_Teacher_Profile')
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Exams_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Exams_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Exams_Teacher_Profile')
 
-WebUI.click(findTestObject('Object Repository/Teacher_Profile/Mixed_Videos_Teacher_Profile'))
+WebUI.click(findTestObject('Object Repository/Saraa/Teacher_Profile/Mixed_Videos_Teacher_Profile'))
 WebUI.takeScreenshot('Screenshots/Targets/Mixed_Videos_Teacher_Profile')

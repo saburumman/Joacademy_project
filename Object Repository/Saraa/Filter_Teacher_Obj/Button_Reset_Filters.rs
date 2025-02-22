@@ -6,11 +6,11 @@
    <elementGuidId>567837eb-7423-4bce-91c4-3d253dce0a9f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type = 'button' and (text() = 'حذف التعيينات' or . = 'حذف التعيينات')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

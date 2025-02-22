@@ -6,12 +6,12 @@
    <elementGuidId>a3376cb2-b217-41fb-8fa4-697270c2aa68</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>.tw-px-2.tw-rounded.tw-text-gray-300.tw-z-40 i.ri-heart-3-fill.tw-text-2xl(1)</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.tw-px-2.tw-rounded.tw-text-gray-300.tw-z-40 i.ri-heart-3-fill.tw-text-2xl(1)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

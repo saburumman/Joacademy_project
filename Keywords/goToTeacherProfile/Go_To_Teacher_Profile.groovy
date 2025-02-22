@@ -26,16 +26,16 @@ public class Go_To_Teacher_Profile {
 	def goToTeacher() {
 
 		//Navigate to teacher's page
-		WebUI.click(findTestObject('Object Repository/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Main_Menu_List- joacademy.com/Teachers_From_Main_Menu'))
 
 		//Search for a teacher
-		WebUI.setText(findTestObject('Object Repository/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
+		WebUI.setText(findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Search_Box_for_Teacher'), 'اسامة العكور')
 
 		WebUI.waitForPageLoad(20)
 		WebUI.delay(2)
 		
 
 		//Go to the teacher's profile
-		WebUI.click(findTestObject('Object Repository/Teachers_Page- joacademy.com/Teacher_Card'))
+		WebUI.click(findTestObject('Object Repository/Saraa/Teachers_Page- joacademy.com/Teacher_Card'))
 	}
 }

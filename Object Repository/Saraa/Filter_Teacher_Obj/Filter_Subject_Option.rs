@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Choose_Section_Filter_</name>
+   <name>Filter_Subject_Option</name>
    <tag></tag>
-   <elementGuidId>4d75cd6f-8906-4db8-ab74-412db859f02a</elementGuidId>
+   <elementGuidId>fa05d44f-5ecc-47d5-9edd-ef848ad67d9a</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر المواد'])[1]/following::div[1]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.css-pnr4qt-control > div.css-hlgwow > div.css-19bb58m</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر الفرع'])[1]/following::div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2cfd1c3a-649f-4985-bedf-74a66b77423e</webElementGuid>
+      <webElementGuid>d82dfe87-3c8e-42b0-bb0b-c880fe9f2bec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value> css-19bb58m</value>
-      <webElementGuid>7a77f479-9fcf-4674-a7dd-cb39be32eee0</webElementGuid>
+      <webElementGuid>d6f88ab7-ed17-44df-8e82-01c902b97f05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,54 +39,54 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scroll-to-filter-container&quot;)/div[@class=&quot;tw-grid tw-grid-cols-1 tw-gap-4 md:tw-grid-cols-2 xl:tw-grid-cols-auto-fit&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-gap-3&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-pnr4qt-control&quot;]/div[@class=&quot;css-hlgwow&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
-      <webElementGuid>6f111974-3ae9-4524-b9ad-a5350ab50d18</webElementGuid>
+      <webElementGuid>c70990e7-1f3f-44af-a3af-2b4fbfe76b62</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='scroll-to-filter-container']/div[2]/div[2]/div/div/div/div[2]</value>
-      <webElementGuid>9f2c5faa-9e7d-48ff-aaaf-99db56770f94</webElementGuid>
+      <value>//div[@id='scroll-to-filter-container']/div[2]/div[3]/div/div/div/div[2]</value>
+      <webElementGuid>c21ca733-8262-49ec-8b11-f80106dbe38b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر الفرع'])[1]/following::div[1]</value>
-      <webElementGuid>88c1a238-6295-4277-a6ac-774ac4988f9a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر المواد'])[1]/following::div[1]</value>
+      <webElementGuid>7b22c58c-148b-4c10-b924-79d80f66c0c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='فرع'])[1]/following::div[5]</value>
-      <webElementGuid>34275643-9613-4a5d-90f4-b35a203973e0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المواد'])[1]/following::div[5]</value>
+      <webElementGuid>a8915931-e768-4906-8aa7-ea369b39a198</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='نوجيهي 2008 المواد المدرسية'])[1]/preceding::div[3]</value>
-      <webElementGuid>2cd9a57f-8098-4b62-bdef-ff1473b633dc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='فيزياء - فصل اول - 2008'])[1]/preceding::div[3]</value>
+      <webElementGuid>e8faad5c-2198-4ee4-8c2e-9148b3e80894</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='توجيهي 2008 المواد الوزارية'])[1]/preceding::div[4]</value>
-      <webElementGuid>0a1d881a-fa16-4163-a47d-3acda9287d54</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='كيمياء - فصل اول - 2008'])[1]/preceding::div[4]</value>
+      <webElementGuid>f1b162f7-d751-4c14-ada8-bd43a8d04caa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/div/div/div[2]</value>
-      <webElementGuid>ceec0c45-23fe-4fd6-be7a-74f0958be19c</webElementGuid>
+      <value>//div[3]/div/div/div/div[2]</value>
+      <webElementGuid>31a36cd0-b77d-4a5a-bbda-3e363de96482</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

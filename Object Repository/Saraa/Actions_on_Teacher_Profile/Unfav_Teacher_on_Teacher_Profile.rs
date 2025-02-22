@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Add_Teacher_to_Fav_Teacher_Profile</name>
+   <name>Unfav_Teacher_on_Teacher_Profile</name>
    <tag></tag>
-   <elementGuidId>d1840a9b-4582-494e-ac1e-e39226c9a10e</elementGuidId>
+   <elementGuidId>f0b55e1a-874c-4d6d-b388-d6f6108f1fa9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//span[(text() = 'ازالة من المفضلة' or . = 'ازالة من المفضلة')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='اضافة للمفضلة']/parent::*</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c41b2a19-f0c0-4c39-b5a1-7fcbd818ce79</webElementGuid>
+      <webElementGuid>24fa7d96-6f09-4a97-bf38-6a44d139650b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>tw-whitespace-nowrap tw-text-sm md:tw-hidden lg:tw-block</value>
-      <webElementGuid>a7733017-dd90-4d15-839e-717ef0fab828</webElementGuid>
+      <webElementGuid>f55be779-fe02-4be3-90cf-f3048cbf882e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>اضافة للمفضلة</value>
-      <webElementGuid>037344ec-721b-472c-96c3-7e7fca7f08ee</webElementGuid>
+      <value>ازالة من المفضلة</value>
+      <webElementGuid>b626f014-72e4-4faa-9bec-99cc7dccb220</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;md:tw-p-5&quot;]/section[@class=&quot;tw-flex tw-flex-col tw-justify-between tw-gap-4 tw-rounded-lg tw-bg-[#1A428A] tw-p-2 md:tw-flex-row md:tw-px-10 md:tw-py-5&quot;]/div[@class=&quot;tw-grid tw-grid-cols-1 tw-content-center tw-items-center  tw-justify-center tw-gap-3&quot;]/div[@class=&quot;tw-col-span-1 tw-flex tw-w-full tw-justify-center tw-gap-3 max-xl:tw-flex-wrap&quot;]/button[@class=&quot;tw-flex tw-h-10 tw-w-fit tw-items-center tw-justify-center tw-gap-2 tw-rounded-lg tw-bg-[#FFFFFF] tw-px-5 tw-text-[#212121] md:tw-w-full&quot;]/span[@class=&quot;tw-whitespace-nowrap tw-text-sm md:tw-hidden lg:tw-block&quot;]</value>
-      <webElementGuid>612b72e2-b2a7-4582-81c0-d5d406d293bf</webElementGuid>
+      <webElementGuid>f143d3f5-266b-492b-bde3-ccf58c643c55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/section/div[2]/div[2]/button[2]/span</value>
-      <webElementGuid>5f0e9486-1032-431b-9c9e-310c54f7491e</webElementGuid>
+      <webElementGuid>c0d058a9-99d3-43f1-8349-7d1c90a95f96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='مشاركة الحساب'])[1]/following::span[1]</value>
-      <webElementGuid>01fdcefd-d4f0-495f-941d-496455d2c491</webElementGuid>
+      <webElementGuid>521cef93-2e11-41d5-a2f5-1fff543ffe37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='متابعة الاستاذ'])[1]/following::span[2]</value>
-      <webElementGuid>18fbc47b-f8a3-4ca6-9b32-bea7a89583d7</webElementGuid>
+      <webElementGuid>aa62d50b-008d-4c80-a000-d6273332902a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='الدورات'])[2]/preceding::span[1]</value>
-      <webElementGuid>23808923-ba25-4567-8b58-7f72786761be</webElementGuid>
+      <webElementGuid>8f069fbf-a6b4-4a17-a7b3-9700023da410</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='الساعات المكتبية'])[1]/preceding::span[2]</value>
-      <webElementGuid>9f30f11c-9ec6-4aba-84e0-dafe170e90bf</webElementGuid>
+      <webElementGuid>5bf2be8c-2055-4967-b2a1-3130e9d1979b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='اضافة للمفضلة']/parent::*</value>
-      <webElementGuid>40e71502-9293-45ac-9a54-469d6056cee3</webElementGuid>
+      <value>//*/text()[normalize-space(.)='ازالة من المفضلة']/parent::*</value>
+      <webElementGuid>defd40af-707b-4976-87fe-75333aa7eae4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +102,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/span</value>
-      <webElementGuid>e1a5feca-b755-4923-8816-d404dfc11d2a</webElementGuid>
+      <webElementGuid>1929bfc7-5a69-43ac-9164-2fd11f166241</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'اضافة للمفضلة' or . = 'اضافة للمفضلة')]</value>
-      <webElementGuid>b2fb7941-1c81-4c74-86f8-0002fa8119d8</webElementGuid>
+      <value>//span[(text() = 'ازالة من المفضلة' or . = 'ازالة من المفضلة')]</value>
+      <webElementGuid>ab360e4f-872f-4091-b242-76d26898ad95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,11 +6,11 @@
    <elementGuidId>e1264494-3676-4cf8-86ce-f5b13dfaf50b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*/text()[normalize-space(.)='مشاركة الحساب']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

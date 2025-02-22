@@ -6,12 +6,12 @@
    <elementGuidId>d8341aad-c5b7-4888-b4fa-c12b5e139af6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-3-option-0</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر الفرع'])[1]/following::div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-3-option-0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

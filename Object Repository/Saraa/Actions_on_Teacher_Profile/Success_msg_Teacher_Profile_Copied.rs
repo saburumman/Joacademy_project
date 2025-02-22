@@ -6,12 +6,12 @@
    <elementGuidId>3a00707a-f55c-475e-ae22-cb66486afd1d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.semi-bold.tw-text-sm.tw-opacity-90</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[(text() = 'تم نسخ الرابط' or . = 'تم نسخ الرابط')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.semi-bold.tw-text-sm.tw-opacity-90</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
