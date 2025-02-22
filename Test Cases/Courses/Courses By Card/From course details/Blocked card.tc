@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Blocked card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>980a8fe5-23f8-4bf7-bd9d-8fcb1316d4a4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginByPhoneNumberInvalidOTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45f09d3a-a508-4473-ab48-883c84234fec</testCaseGuid>
+</TestCaseEntity>
