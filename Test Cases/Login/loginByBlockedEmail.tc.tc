@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginByBlockedEmail.tc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b2a410c-3176-4952-96c9-0afa5f85c8f1</testCaseGuid>
+</TestCaseEntity>
