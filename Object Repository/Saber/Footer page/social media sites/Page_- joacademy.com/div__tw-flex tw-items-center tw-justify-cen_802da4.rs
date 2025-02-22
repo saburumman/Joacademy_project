@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__tw-flex tw-items-center tw-justify-cen_802da4</name>
+   <tag></tag>
+   <elementGuidId>54211945-a69c-413a-845e-a996951f4d31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tw-flex.tw-items-center.tw-justify-center.tw-gap-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.tw-flex > div > div:nth-child(3) > .tw-flex</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de90a575-1e6c-4870-903b-d0434035b9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-flex tw-items-center tw-justify-center tw-gap-6</value>
+      <webElementGuid>6a08821b-a79b-471c-997f-1ceeaac12221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-2&quot;]/div[@class=&quot;tw-flex tw-items-center tw-justify-center tw-gap-6&quot;]</value>
+      <webElementGuid>20a2caae-4549-41a8-b500-8666ce6a0640</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div[2]/div/div[3]/div</value>
+      <webElementGuid>7a99621f-3c26-452d-ac0a-4858b19867d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='صفحاتنا على مواقع التواصل الاجتماعي'])[1]/following::div[1]</value>
+      <webElementGuid>942eac12-23fc-4c31-841c-9522e19eff40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WINDOWS'])[1]/following::div[2]</value>
+      <webElementGuid>b3710138-5310-40e3-988e-c598516e4812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div</value>
+      <webElementGuid>1d56dc00-9ec2-4931-a240-3a7ec97e5262</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

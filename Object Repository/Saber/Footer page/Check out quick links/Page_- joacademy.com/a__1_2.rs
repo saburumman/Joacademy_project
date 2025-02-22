@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1_2</name>
+   <tag></tag>
+   <elementGuidId>3d147c4b-7942-45b0-86ac-9d2ec9230644</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[aria-label='اذهب الى  مدرستنا | جو اكاديمي'][href='/e-school']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;اذهب الى  مدرستنا | جو اكاديمي&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c61038c9-c6c3-4d01-a5ac-33dfc3e6b9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>اذهب الى  مدرستنا | جو اكاديمي</value>
+      <webElementGuid>a3273c1a-28af-458b-9292-beb2435173e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start</value>
+      <webElementGuid>3fd77cef-fc1d-4ba3-b727-9e28e2c014d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/e-school</value>
+      <webElementGuid>35b71b17-075e-47f2-948e-d5bc457329fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>مدرستنا</value>
+      <webElementGuid>1a650c94-30b7-4fa6-be01-8fcd5592c2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-grid-cols-2 tw-flex-col tw-justify-between md:tw-grid&quot;]/div[@class=&quot;tw-mx-0 tw-my-8 tw-flex tw-flex-col tw-gap-4&quot;]/a[@class=&quot;semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start&quot;]</value>
+      <webElementGuid>29887acb-5abd-40c0-ac2e-e06c82ca7d0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div/div/a[3]</value>
+      <webElementGuid>4af7698b-09b9-47be-a1a4-97b448ae0b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'مدرستنا')])[2]</value>
+      <webElementGuid>ac8578a6-9f7d-4c48-8055-ea442cfe9b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='شبابيك'])[2]/following::a[1]</value>
+      <webElementGuid>94601008-3ac6-4b0d-8c7c-6640ad587a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الدورات'])[2]/following::a[2]</value>
+      <webElementGuid>b13bb004-9882-4459-9b97-8e1cf902ff77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='معلمون'])[2]/preceding::a[1]</value>
+      <webElementGuid>c967c911-f8ec-4363-9151-50909a7e6c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الملفات'])[2]/preceding::a[2]</value>
+      <webElementGuid>e61afbfd-fb7a-4034-9877-9c87aa3149a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/e-school')])[3]</value>
+      <webElementGuid>65d688b0-eb54-4bb2-a813-ee7bdbdf398a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[3]</value>
+      <webElementGuid>8d8160d2-045b-49a5-a133-5f501a38c747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/e-school' and (text() = 'مدرستنا' or . = 'مدرستنا')]</value>
+      <webElementGuid>38689d9b-646b-4e71-81b6-f56eefaeacac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

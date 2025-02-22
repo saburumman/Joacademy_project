@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scolarship</name>
+   <tag></tag>
+   <elementGuidId>0949ee35-2cd7-4610-8c2a-0c6b3b356ad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div/div/a[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;اذهب الى  منح جواكاديمي | جو اكاديمي&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ab51a40-e170-4203-944e-70f3f39309e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>اذهب الى  منح جواكاديمي | جو اكاديمي</value>
+      <webElementGuid>369f9c6f-06fb-4c0b-aaff-b04e2e3a2b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start</value>
+      <webElementGuid>2b5c48f2-7edd-4c75-ae18-c492ec4abbc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/scholarships</value>
+      <webElementGuid>1714ea4a-5409-433a-8cf0-7c682429677b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>منح جواكاديمي</value>
+      <webElementGuid>d4a68c02-2f1b-4565-a956-ab8290134491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-grid-cols-2 tw-flex-col tw-justify-between md:tw-grid&quot;]/div[@class=&quot;tw-mx-0 tw-my-8 tw-flex tw-flex-col tw-gap-4&quot;]/a[@class=&quot;semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start&quot;]</value>
+      <webElementGuid>77577763-3543-47f1-b884-b04a86111ec2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div/div/a[6]</value>
+      <webElementGuid>55058a4c-343a-47ad-87e3-f4cd1b800ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'منح جواكاديمي')]</value>
+      <webElementGuid>e09a47d4-3f89-477e-9295-fc4fdf4e07d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الملفات'])[1]/following::a[1]</value>
+      <webElementGuid>70d6465f-a8a7-4fc5-b3e2-d1c8c3ee9630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='معلمون'])[1]/following::a[2]</value>
+      <webElementGuid>55e0d5f3-830d-4bc2-8223-00940d70a2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='كن مندوبنا'])[2]/preceding::a[1]</value>
+      <webElementGuid>99324bb3-a315-45f1-b739-f68e29976500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='بكجات وعروض'])[1]/preceding::a[2]</value>
+      <webElementGuid>99ec43f4-911c-4f9c-9639-299f8fcdfe0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='منح جواكاديمي']/parent::*</value>
+      <webElementGuid>b49f81ea-911d-4206-88ec-1a8a95004bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/scholarships')]</value>
+      <webElementGuid>a28b4d6a-e80f-44a0-9dfd-91bf07357b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>b513296e-7e7d-4a3f-889e-894aedfb4abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/scholarships' and (text() = 'منح جواكاديمي' or . = 'منح جواكاديمي')]</value>
+      <webElementGuid>9041c9cb-5d7a-46b4-b77d-3fd0972feb05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

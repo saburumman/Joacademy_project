@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__ri-close-line tw-text-3xl</name>
+   <tag></tag>
+   <elementGuidId>76f1c794-ef2f-4976-954c-686411f509ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.ri-close-line.tw-text-3xl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:rb:']/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=dialog >> i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>89c3740b-df1e-4d70-b896-04ecf80d2fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-close-line tw-text-3xl</value>
+      <webElementGuid>d15cbc6c-cf5f-45d7-93d3-5440f4f55794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:rb:&quot;)/div[@class=&quot;tw-absolute tw-left-2 tw-top-2 tw-flex tw-h-12 tw-w-12 tw-cursor-pointer tw-items-center tw-justify-center tw-rounded-full tw-bg-white tw-font-extrabold tw-text-[#262d3e] tw-shadow-md&quot;]/i[@class=&quot;ri-close-line tw-text-3xl&quot;]</value>
+      <webElementGuid>a682089e-fde3-42f4-9d2b-e1cf50088e54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:rb:']/div/i</value>
+      <webElementGuid>1b8604a2-b37a-4341-8c49-5285b382bd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/i</value>
+      <webElementGuid>8536cc0e-554f-4054-bc32-8e047de1d1e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

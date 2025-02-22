@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Help button</name>
+   <tag></tag>
+   <elementGuidId>2503542d-5ff6-49f8-a8a7-a941a2f2ab85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4bbbc20d-0f39-4fd1-94af-ac6d5bb8700c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>اذهب الى  المساعدة | جو اكاديمي</value>
+      <webElementGuid>c02c6a00-238f-4337-9101-06726536afcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start</value>
+      <webElementGuid>64c3f11b-5dbb-4076-812c-79863dbe9e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/help</value>
+      <webElementGuid>b22f0e5c-7560-489c-a479-5a2290e0c083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>المساعدة</value>
+      <webElementGuid>987d6438-9501-4321-bca5-260315617d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-grid-cols-2 tw-flex-col tw-justify-between md:tw-grid&quot;]/div[@class=&quot;tw-mx-0 tw-my-8 tw-flex tw-flex-col tw-gap-4&quot;]/a[@class=&quot;semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start&quot;]</value>
+      <webElementGuid>f322e08e-12b0-4bcf-9510-7b66261d5575</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div/div[2]/a</value>
+      <webElementGuid>c1424b9f-02d2-49b9-9bbb-d1be3b81366d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'المساعدة')]</value>
+      <webElementGuid>b61fa266-fc43-4812-95cd-69b7da1d19b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الدعم'])[1]/following::a[1]</value>
+      <webElementGuid>175a8e9b-b15c-48c1-92c5-1a487ff5147c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='بكجات وعروض'])[2]/following::a[1]</value>
+      <webElementGuid>3d4de532-7f7e-4c44-a030-ba06d17fc9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تواصل مع الدعم الفني'])[1]/preceding::a[1]</value>
+      <webElementGuid>e66b184e-2737-4cca-bc3b-1b8ecc01217b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تواصل مع الدعم الفني'])[2]/preceding::a[2]</value>
+      <webElementGuid>af9d8f2b-bd59-4b0b-b188-17e0c1a4d999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='المساعدة']/parent::*</value>
+      <webElementGuid>c43a0af0-80be-4e94-aa09-00b74bbfcf3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/help')]</value>
+      <webElementGuid>d8ca1d55-bcad-4c68-b0c4-746231ef19ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a</value>
+      <webElementGuid>79092ca1-6bfe-4123-b2d1-7ea1feaea553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/help' and (text() = 'المساعدة' or . = 'المساعدة')]</value>
+      <webElementGuid>3f448aeb-4016-4a75-b955-f3ae251ba8d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

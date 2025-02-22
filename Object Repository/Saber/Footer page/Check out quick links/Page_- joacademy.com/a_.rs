@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>f6431ae5-60f9-4777-b10a-814367658720</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[aria-label='اذهب الى  الدورات | جو اكاديمي'][href='/courses/tawjihi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;اذهب الى  الدورات | جو اكاديمي&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>99f05501-1902-48af-8af0-88837b4a0a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>اذهب الى  الدورات | جو اكاديمي</value>
+      <webElementGuid>577221e9-b832-45ae-b2be-288052c43e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start</value>
+      <webElementGuid>f7d5e173-fef3-4d7e-904b-b30f3bb8ae42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/courses/tawjihi</value>
+      <webElementGuid>8c81e907-bbf4-4392-a94c-899f2c9c9f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>الدورات</value>
+      <webElementGuid>ad3b7eae-22ae-4f12-afb9-d6f4f08b8b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-grid-cols-2 tw-flex-col tw-justify-between md:tw-grid&quot;]/div[@class=&quot;tw-mx-0 tw-my-8 tw-flex tw-flex-col tw-gap-4&quot;]/a[@class=&quot;semi-bold tw-text-center tw-text-[16px] tw-text-brand-light-grey  md:tw-text-start&quot;]</value>
+      <webElementGuid>64ea343d-5cd5-4611-beec-b00419853486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div/div/a</value>
+      <webElementGuid>e3a7a979-803f-4368-b1cd-9c489b044ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'الدورات')]</value>
+      <webElementGuid>30a4c4c1-3b9a-43a0-b838-289f9abf62ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='روابط سريعة'])[1]/following::a[1]</value>
+      <webElementGuid>44ad9f71-d6bc-47de-b05c-a4f09a103f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تذييل جو أكاديمي'])[1]/following::a[1]</value>
+      <webElementGuid>26dbc93b-a72f-418f-83bb-97562fd6b506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='شبابيك'])[2]/preceding::a[1]</value>
+      <webElementGuid>4923c0a4-885f-45ed-83a9-a8a60bf940f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مدرستنا'])[2]/preceding::a[2]</value>
+      <webElementGuid>d9dbbdad-c4fe-4ced-8fe7-4a014980d0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/courses/tawjihi')])[2]</value>
+      <webElementGuid>398f38c3-7083-4417-a953-7c6dc8f297b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>b7c02747-600a-4c76-8af1-5218b824b119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/courses/tawjihi' and (text() = 'الدورات' or . = 'الدورات')]</value>
+      <webElementGuid>b15ad27a-a7d1-481f-9e9a-35a148967414</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

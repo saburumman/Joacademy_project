@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MAC</name>
+   <tag></tag>
+   <elementGuidId>30dc2d71-d984-46c9-9a8a-d4a550785cdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div[2]/div/div[2]/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;التطبيق لنظام MAC&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dbb9e6fd-2d61-4d36-85d8-342e0f973bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>!tw-w-37 tw-mx-0 tw-my-6 tw-flex tw-flex-row tw-items-center tw-justify-between tw-rounded-lg tw-bg-white tw-px-3 tw-py-1 tw-text-blue-950</value>
+      <webElementGuid>7f3be864-fbc1-409a-966f-e9f2f754f1c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>التطبيق لنظامMAC</value>
+      <webElementGuid>f430ed1c-a1cc-49a1-8626-9516b405cfe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-2&quot;]/div[1]/div[@class=&quot;tw-flex tw-items-center tw-justify-center max-sm:tw-flex-col sm:tw-gap-10&quot;]/a[1]/div[@class=&quot;!tw-w-37 tw-mx-0 tw-my-6 tw-flex tw-flex-row tw-items-center tw-justify-between tw-rounded-lg tw-bg-white tw-px-3 tw-py-1 tw-text-blue-950&quot;]</value>
+      <webElementGuid>07490577-fec9-4886-832c-8e6c3c088f44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div[2]/div/div[2]/div/div/a/div</value>
+      <webElementGuid>b1ac267f-1fb9-4eba-b1bd-4965cc6eda0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حمل برنامج سطح المكتب لجو اكاديمي على جهازك'])[1]/following::div[3]</value>
+      <webElementGuid>61831288-4b16-4457-9f31-fbf7d6841f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حمل تطبيق الهاتف المحمول لجو اكاديمي على موبايلك'])[1]/following::div[12]</value>
+      <webElementGuid>acfc0545-fc73-42f1-aa11-3ef1bc623380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div</value>
+      <webElementGuid>5003c5c5-f54b-4d5c-9b45-8d56694fff8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'التطبيق لنظامMAC' or . = 'التطبيق لنظامMAC')]</value>
+      <webElementGuid>317792d8-b8e6-4ea9-9d98-da92872c6a14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

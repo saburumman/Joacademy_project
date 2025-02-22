@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>4955a4c8-7614-45f3-b6d4-8276d37c6893</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.tw-text-center[href='https://api.whatsapp.com/send?phone=962792004566&amp;text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D8%AC%D9%88%20%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%20%F0%9F%98%83%20%D8%8C%20%D8%B1%D8%A3%D9%8A%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%86%20%D9%88%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%86%20%D8%A7%D8%B9%D8%B1%D9%81%20%D8%A7%D9%83%D8%AB%D8%B1%20%D8%B9%D9%86%20%D8%B9%D8%B1%D9%88%D8%B6%D9%83%D9%85%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9%20%D8%AD%D8%A7%D9%84%D9%8A%D8%A7%20%D9%88%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;تواصل مع الدعم الفني&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a3bc648a-aeb3-4dfb-99fd-f99a287a7585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://api.whatsapp.com/send?phone=962792004566&amp;text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D8%AC%D9%88%20%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%20%F0%9F%98%83%20%D8%8C%20%D8%B1%D8%A3%D9%8A%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%86%20%D9%88%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%86%20%D8%A7%D8%B9%D8%B1%D9%81%20%D8%A7%D9%83%D8%AB%D8%B1%20%D8%B9%D9%86%20%D8%B9%D8%B1%D9%88%D8%B6%D9%83%D9%85%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9%20%D8%AD%D8%A7%D9%84%D9%8A%D8%A7%20%D9%88%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83</value>
+      <webElementGuid>567ca3bb-6f5b-4d05-9760-6070c29a04cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-text-brand-light-grey semi-bold tw-hidden tw-text-center tw-text-[16px] md:tw-text-start lg:tw-block</value>
+      <webElementGuid>93e74e3e-d35f-4240-a7a7-ac09a9914ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>تواصل مع الدعم الفني</value>
+      <webElementGuid>60987924-91ea-4a4c-9332-df2a3eb55dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-grid-cols-2 tw-flex-col tw-justify-between md:tw-grid&quot;]/div[@class=&quot;tw-mx-0 tw-my-8 tw-flex tw-flex-col tw-gap-4&quot;]/div[1]/a[@class=&quot;tw-text-brand-light-grey semi-bold tw-hidden tw-text-center tw-text-[16px] md:tw-text-start lg:tw-block&quot;]</value>
+      <webElementGuid>dd0b2ed2-b742-4bc0-932a-bc02f91f913f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>63c8a394-cff0-4a8a-a5f7-7b49cb44333a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'تواصل مع الدعم الفني')]</value>
+      <webElementGuid>e20786bb-513f-407b-8090-47761272d2a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المساعدة'])[1]/following::a[1]</value>
+      <webElementGuid>769f771f-1a75-40e8-82c7-5c270b1f6ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الدعم'])[1]/following::a[2]</value>
+      <webElementGuid>ce202008-bf4a-42cb-8c88-d38fa030ef5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تواصل مع الدعم الفني'])[2]/preceding::a[1]</value>
+      <webElementGuid>b9f723ad-02d2-4b43-9150-22c7a64bf81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='أخبارنا'])[2]/preceding::a[2]</value>
+      <webElementGuid>9a01e2a5-6422-4c9d-873e-a35b585b332a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='تواصل مع الدعم الفني']/parent::*</value>
+      <webElementGuid>cc4840fb-6b70-46eb-a8f7-2790ea618146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://api.whatsapp.com/send?phone=962792004566&amp;text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D8%AC%D9%88%20%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%20%F0%9F%98%83%20%D8%8C%20%D8%B1%D8%A3%D9%8A%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%86%20%D9%88%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%86%20%D8%A7%D8%B9%D8%B1%D9%81%20%D8%A7%D9%83%D8%AB%D8%B1%20%D8%B9%D9%86%20%D8%B9%D8%B1%D9%88%D8%B6%D9%83%D9%85%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9%20%D8%AD%D8%A7%D9%84%D9%8A%D8%A7%20%D9%88%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83')])[2]</value>
+      <webElementGuid>cd3bdae0-f60c-4a19-b329-e13b562b551d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a</value>
+      <webElementGuid>3bdfc0f7-5f31-44a6-ad7a-4ff12330c476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://api.whatsapp.com/send?phone=962792004566&amp;text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D8%AC%D9%88%20%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%20%F0%9F%98%83%20%D8%8C%20%D8%B1%D8%A3%D9%8A%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%86%20%D9%88%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%86%20%D8%A7%D8%B9%D8%B1%D9%81%20%D8%A7%D9%83%D8%AB%D8%B1%20%D8%B9%D9%86%20%D8%B9%D8%B1%D9%88%D8%B6%D9%83%D9%85%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9%20%D8%AD%D8%A7%D9%84%D9%8A%D8%A7%20%D9%88%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83' and (text() = 'تواصل مع الدعم الفني' or . = 'تواصل مع الدعم الفني')]</value>
+      <webElementGuid>97a2b6f7-ddc8-45a8-82bc-9307e3f0747d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

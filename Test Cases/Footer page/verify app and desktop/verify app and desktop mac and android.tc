@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify app and desktop mac and android</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>156379bd-cee2-443c-8aaa-78f11edf874b</testCaseGuid>
+</TestCaseEntity>

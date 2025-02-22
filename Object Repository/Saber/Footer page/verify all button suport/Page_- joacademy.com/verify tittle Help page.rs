@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify tittle Help page</name>
+   <tag></tag>
+   <elementGuidId>d1b1b00c-000a-4ece-8c1a-b5cf33d727f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>39a45409-513d-413b-b3c9-3a7429dd8df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-text-center tw-text-[24px] tw-font-bold</value>
+      <webElementGuid>0e85a813-619b-4ddc-9788-94fc30e87d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  مركز مساعدة جو اكاديمي كيف يمكننا مساعدتك؟</value>
+      <webElementGuid>7eabb85e-e948-4787-80e8-9bf206b70d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-w-full !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;tw-px-9 tw-pt-3&quot;]/div[@class=&quot;tw-relative tw-w-full&quot;]/div[@class=&quot;tw-h-auto !tw-w-full tw-bg-[#1A428A] tw-p-[38px] tw-py-[70px]&quot;]/div[@class=&quot;tw-flex tw-w-full tw-flex-col tw-items-center tw-px-6 tw-text-white&quot;]/div[@class=&quot;tw-flex tw-w-full tw-flex-col tw-items-center&quot;]/h2[@class=&quot;tw-text-center tw-text-[24px] tw-font-bold&quot;]</value>
+      <webElementGuid>5ae02dcc-59c3-4e11-95a1-2facc8ff7efa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/h2</value>
+      <webElementGuid>987097bb-7650-4490-bccc-47b16b2cb3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تسجيل'])[1]/following::h2[1]</value>
+      <webElementGuid>92966fbd-3590-4813-85dd-a259237a7bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الرئيسية'])[1]/preceding::h2[1]</value>
+      <webElementGuid>8dc0a939-4179-4c7b-a731-3854c63d35e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المساعدة'])[1]/preceding::h2[1]</value>
+      <webElementGuid>8d442897-0c53-44bf-b943-04c3e4557c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>0cb0c329-79e6-4f2c-877c-299f90c3ee1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '  مركز مساعدة جو اكاديمي كيف يمكننا مساعدتك؟' or . = '  مركز مساعدة جو اكاديمي كيف يمكننا مساعدتك؟')]</value>
+      <webElementGuid>9a1fb92c-fcc1-4d1c-a254-e06347c543fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

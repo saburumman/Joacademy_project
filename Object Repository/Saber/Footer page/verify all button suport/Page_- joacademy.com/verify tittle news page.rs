@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify tittle news page</name>
+   <tag></tag>
+   <elementGuidId>158ef743-f22a-47b1-8370-af2709ab2a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.tw-text-center.tw-text-2xl.tw-font-bold.tw-text-zinc-500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/header/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>988fd681-7006-4879-bdda-e2e54432de76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> tw-text-center tw-text-2xl tw-font-bold tw-text-zinc-500</value>
+      <webElementGuid>0dbad000-b120-412e-bf28-19b710536802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>أخبار جو أكاديمي</value>
+      <webElementGuid>8ce95457-85a3-41c3-abca-0ac9a768f919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-m-auto tw-mt-10 tw-flex tw-max-w-[1440px] tw-flex-col tw-items-center tw-justify-center tw-justify-items-center&quot;]/header[@class=&quot;tw-mt-3&quot;]/h1[@class=&quot;tw-text-center tw-text-2xl tw-font-bold tw-text-zinc-500&quot;]</value>
+      <webElementGuid>01a66245-d761-44be-812c-96087fb70456</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/header/h1</value>
+      <webElementGuid>8e01d05e-4c91-41a2-a4a6-081e50e01657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اخبار التعليم العالي'])[1]/following::h1[1]</value>
+      <webElementGuid>aca50728-d4f9-4c28-92f5-0672a3fd67cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='أخرى'])[1]/following::h1[1]</value>
+      <webElementGuid>9647dc34-dd6e-4528-a4a1-5757ca6f5766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='فريق جو اكاديمي'])[1]/preceding::h1[1]</value>
+      <webElementGuid>456255ae-b827-4554-8031-deca1aeda51b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>91a09bd8-6c84-44f7-89ad-74e094d57861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'أخبار جو أكاديمي' or . = 'أخبار جو أكاديمي')]</value>
+      <webElementGuid>ffce22f5-6c8d-4c6f-9732-263295060b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
