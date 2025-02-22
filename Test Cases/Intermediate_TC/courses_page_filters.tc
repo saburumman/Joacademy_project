@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Navegate_To_MyCoures_Page</name>
+   <name>courses_page_filters</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>50b9dbd1-82b3-4368-9ac8-6063a48a3f49</testCaseGuid>
+   <testCaseGuid>eda6b343-6bdc-4b79-ba5b-951e47f9647c</testCaseGuid>
 </TestCaseEntity>

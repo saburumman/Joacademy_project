@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>My_favoret_page</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>7a657a33-349f-4a45-9ba7-e11801005e28</testCaseGuid>
-</TestCaseEntity>

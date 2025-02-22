@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>files</name>
+   <name>conflict in office hours</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>17a58b48-b8af-4348-9866-2e7cbf70342e</testCaseGuid>
+   <testCaseGuid>d50fab52-8520-45e0-b9ac-ea73bf123be5</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>shababek</name>
+   <name>Button_For_Start_TheCourse</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>52e82fff-766f-4896-afd8-82763b8a7db2</testCaseGuid>
+   <testCaseGuid>3a3c17da-ea40-4517-966e-cd0fbf6107c0</testCaseGuid>
 </TestCaseEntity>

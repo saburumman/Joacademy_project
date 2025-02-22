@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>The_courses_page</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>db189749-bab1-4f81-acfe-50dd426c57ce</testCaseGuid>
+   <testCaseGuid>0ea0968b-3795-4072-b1d6-dc0fcc5aa974</testCaseGuid>
 </TestCaseEntity>

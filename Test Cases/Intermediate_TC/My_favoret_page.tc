@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>verify_Close_PU_bap</name>
+   <name>My_favoret_page</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>0fd636db-e4b0-499c-af85-cc506f23a6b9</testCaseGuid>
+   <testCaseGuid>3b10dc73-6776-4ca0-a0d9-5b6ed8f217c2</testCaseGuid>
 </TestCaseEntity>

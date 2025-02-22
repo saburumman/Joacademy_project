@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>The_courses_page</name>
+   <name>My_Files_Page</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>638340c2-2964-4f32-b2f2-f958e5788c64</testCaseGuid>
+   <testCaseGuid>e36a6c6d-24e4-4ac5-90e6-a58536af3178</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>office hour from home page</name>
+   <name>Navegate_To_MyCoures_Page</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f851f76b-f1f0-41a9-9d20-ebefed6285ed</testCaseGuid>
+   <testCaseGuid>23f2e373-7f28-4df0-8981-07e0f066c7be</testCaseGuid>
 </TestCaseEntity>
