@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginWithoutEmail.tc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe08ce4d-452c-43b0-a94f-e213085872d3</testCaseGuid>
+</TestCaseEntity>

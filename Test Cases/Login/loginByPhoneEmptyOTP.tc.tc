@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginByPhoneEmptyOTP.tc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c1a30e1-cdb1-43c3-ab03-5d074d9d835f</testCaseGuid>
+</TestCaseEntity>

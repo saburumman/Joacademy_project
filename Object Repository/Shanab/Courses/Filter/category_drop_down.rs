@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>category_drop_down</name>
+   <tag></tag>
+   <elementGuidId>055a9fc2-b462-40e3-b01f-a3623094eb22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-15lsz6c-indicatorContainer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scroll-to-filter-container']/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d3f2483f-0424-4355-a973-01b293b64c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-15lsz6c-indicatorContainer</value>
+      <webElementGuid>f89a0544-ae4a-4fb8-ad74-86b02f3032c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>00d0acc3-d0f6-4624-ad9f-ef7ea8b63edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll-to-filter-container&quot;)/div[@class=&quot;tw-grid tw-grid-cols-1 tw-gap-4 md:tw-grid-cols-2 xl:tw-grid-cols-auto-fit&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-gap-3&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-pnr4qt-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-15lsz6c-indicatorContainer&quot;]</value>
+      <webElementGuid>772fd0ba-5efa-41ac-9e2a-005bfaf84f8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scroll-to-filter-container']/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>9b16daaf-50a4-46e2-acab-ffff22faadbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر البرنامج'])[1]/following::div[3]</value>
+      <webElementGuid>187069bb-c36a-46d8-b7f0-f9af9a286b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نوع البرنامج'])[1]/following::div[7]</value>
+      <webElementGuid>94228f75-c31d-41e4-9625-c3d6675e9a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='توجيهي 2007'])[1]/preceding::div[1]</value>
+      <webElementGuid>76479937-b6c0-40ba-8216-947bf96f6db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='توجيهي 2008'])[1]/preceding::div[2]</value>
+      <webElementGuid>b7f953cd-b488-4ec6-9794-e24bbd1eb6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>4b7f6d40-5c4b-41ec-a4af-2547ba9f3cc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
