@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify tittle Download the app</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6cdc0575-5eec-4609-87dd-b8e8025ca5f9</testCaseGuid>
+</TestCaseEntity>

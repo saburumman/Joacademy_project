@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AppGallery</name>
+   <tag></tag>
+   <elementGuidId>8cd3fba5-2c90-47f3-98b0-966bdb7d9b51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div[2]/div/div/div/div/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;احصل عليه من AppGallery&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4be80e36-8ad8-4ee7-96bb-119ebcc56b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-w-37 tw-mx-0 tw-flex tw-flex-row tw-items-center tw-justify-center tw-rounded-lg tw-border-2 tw-border-gray-500 tw-bg-black tw-p-1.5 tw-px-2.5</value>
+      <webElementGuid>57acf89f-368e-4d77-8934-2493a9c177e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>احصل عليه منAppGallery</value>
+      <webElementGuid>927f4acb-3191-4ace-8ee1-8283de3be3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-2&quot;]/div[1]/div[@class=&quot;tw-flex tw-items-center tw-justify-center max-sm:tw-flex-col sm:tw-gap-10&quot;]/a[@class=&quot;tw-my-6&quot;]/div[@class=&quot;tw-w-37 tw-mx-0 tw-flex tw-flex-row tw-items-center tw-justify-center tw-rounded-lg tw-border-2 tw-border-gray-500 tw-bg-black tw-p-1.5 tw-px-2.5&quot;]</value>
+      <webElementGuid>9ceb5b12-8c32-486d-ad95-3b9108de965d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div[2]/div/div/div/div/a[3]/div</value>
+      <webElementGuid>732f2354-a6db-440f-8db5-23dba8a27d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حمل تطبيق الهاتف المحمول لجو اكاديمي على موبايلك'])[1]/following::div[7]</value>
+      <webElementGuid>2e66fd98-b832-4886-8ee9-f188e5a738a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='سياسة الخصوصية'])[1]/following::div[10]</value>
+      <webElementGuid>b56a962b-2c80-4aca-96c3-f0311f3e7a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حمل برنامج سطح المكتب لجو اكاديمي على جهازك'])[1]/preceding::div[2]</value>
+      <webElementGuid>4d5681a5-ecff-4244-b7f8-028d880d7d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التطبيق لنظام'])[1]/preceding::div[2]</value>
+      <webElementGuid>b32dfd68-ac13-4686-b544-1b17af8923b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>2d451d15-2769-48be-ab08-9df173f2beb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'احصل عليه منAppGallery' or . = 'احصل عليه منAppGallery')]</value>
+      <webElementGuid>cacf0b39-8c71-46f1-ad68-cf2778795b68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

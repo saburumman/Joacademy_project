@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_App Store  Google Play  AppGallery  _7805fe</name>
+   <tag></tag>
+   <elementGuidId>70c1f968-5017-4ecd-8ff1-76b2a530f1a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#footer-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;تذييل جو أكاديميروابط سريعةالدوراتشبابيكمدرستنامعلمونالملفاتمنح جواكاديميكن مندو&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>75588b8b-c836-4b98-9307-187c173964ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>footer-card</value>
+      <webElementGuid>0df399ec-d8e3-4d45-b86c-8e9aebb41d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-bg-[#1a428a] tw-relative tw-bottom-0 tw-mx-auto tw-w-full tw-px-28 tw-py-8</value>
+      <webElementGuid>d3f79697-5c8f-4ff5-a84d-bc4fb8b81e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>تذييل جو أكاديميروابط سريعةالدوراتشبابيكمدرستنامعلمونالملفاتمنح جواكاديميكن مندوبنابكجات وعروضالدعمالمساعدةتواصل مع الدعم الفنيتواصل مع الدعم الفنيأخبارنامن نحنمكتباتالشروط والاحكامسياسة الخصوصيةحمل تطبيق الهاتف المحمول لجو اكاديمي على موبايلكتنزيل منApp Storeاحصل عليه منGoogle Playاحصل عليه منAppGalleryحمل برنامج سطح المكتب لجو اكاديمي على جهازكالتطبيق لنظامMACالتطبيق لنظامWINDOWSصفحاتنا على مواقع التواصل الاجتماعيجميع الحقوق محفوظة © لجواكاديمي 2024</value>
+      <webElementGuid>c938925b-7517-4302-93ce-ad48ef474af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)</value>
+      <webElementGuid>8260937e-3e20-421f-86bc-5d2e68990fa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']</value>
+      <webElementGuid>b576ea21-834f-4378-ab40-4326382c2405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/footer</value>
+      <webElementGuid>fb5de923-528e-430c-bb57-8e30811507ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تكميلي 2006'])[1]/following::footer[1]</value>
+      <webElementGuid>77db94fc-ce17-43be-bcef-80421762a422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='توجيهي 2009'])[1]/following::footer[1]</value>
+      <webElementGuid>e0f06543-f930-42ab-b404-9003c62816ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer</value>
+      <webElementGuid>952bdf41-1c1c-431c-bbd7-55b7a8a2f424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//footer[@id = 'footer-card' and (text() = 'تذييل جو أكاديميروابط سريعةالدوراتشبابيكمدرستنامعلمونالملفاتمنح جواكاديميكن مندوبنابكجات وعروضالدعمالمساعدةتواصل مع الدعم الفنيتواصل مع الدعم الفنيأخبارنامن نحنمكتباتالشروط والاحكامسياسة الخصوصيةحمل تطبيق الهاتف المحمول لجو اكاديمي على موبايلكتنزيل منApp Storeاحصل عليه منGoogle Playاحصل عليه منAppGalleryحمل برنامج سطح المكتب لجو اكاديمي على جهازكالتطبيق لنظامMACالتطبيق لنظامWINDOWSصفحاتنا على مواقع التواصل الاجتماعيجميع الحقوق محفوظة © لجواكاديمي 2024' or . = 'تذييل جو أكاديميروابط سريعةالدوراتشبابيكمدرستنامعلمونالملفاتمنح جواكاديميكن مندوبنابكجات وعروضالدعمالمساعدةتواصل مع الدعم الفنيتواصل مع الدعم الفنيأخبارنامن نحنمكتباتالشروط والاحكامسياسة الخصوصيةحمل تطبيق الهاتف المحمول لجو اكاديمي على موبايلكتنزيل منApp Storeاحصل عليه منGoogle Playاحصل عليه منAppGalleryحمل برنامج سطح المكتب لجو اكاديمي على جهازكالتطبيق لنظامMACالتطبيق لنظامWINDOWSصفحاتنا على مواقع التواصل الاجتماعيجميع الحقوق محفوظة © لجواكاديمي 2024')]</value>
+      <webElementGuid>dc5ff933-d4ff-45e9-b5b2-6e222a6b30f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

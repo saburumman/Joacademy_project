@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__ri-facebook-fill tw-text-35px tw-text-white</name>
+   <tag></tag>
+   <elementGuidId>c6747211-6a20-4615-a3e8-ddd894dedc7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer-card']/div[2]/div[2]/div/div[3]/div/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#footer-card >> internal:label=&quot;Jo Academy Account on Facebook&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>586b7c70-5a3d-4f9e-aa46-1576d995f588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-facebook-fill tw-text-[35px] tw-text-white </value>
+      <webElementGuid>662d03ec-e8d9-403e-923c-ae27411ef782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-card&quot;)/div[@class=&quot;tw-flex tw-flex-col tw-justify-between lg:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-2&quot;]/div[@class=&quot;tw-flex tw-items-center tw-justify-center tw-gap-6&quot;]/div[1]/a[1]/i[@class=&quot;ri-facebook-fill tw-text-[35px] tw-text-white&quot;]</value>
+      <webElementGuid>8bd3055d-e99a-4965-b8ce-444aaefe2cdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer-card']/div[2]/div[2]/div/div[3]/div/div/a/i</value>
+      <webElementGuid>e9bc83e1-e5ff-49f2-bb76-997bb5453d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/i</value>
+      <webElementGuid>c40aa3f9-755d-4c33-b773-346bd03758a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
