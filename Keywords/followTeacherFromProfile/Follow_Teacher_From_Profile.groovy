@@ -43,13 +43,11 @@ public class Follow_Teacher_From_Profile {
 			WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Follow_Teacher_Teacher_Profile'))
 			WebUI.comment('Action performed: Follow action completed' + followExpectedText )
 			WebUI.takeScreenshot('Screenshots/Targets/Follow_Teacher')
-		
 		} else {
 			// If "Follow" button does not exist, click "Unfollow" button
 			WebUI.click(findTestObject('Object Repository/Saraa/Actions_on_Teacher_Profile/Unfollow_Teacher_on_Teacher_Profile'))
 			WebUI.comment('Action performed: Unfollow action completed' + unfollowExpectedText)
 			WebUI.takeScreenshot('Screenshots/Targets/Unfollow_Teacher')
-			
 		}
 	}
 }
