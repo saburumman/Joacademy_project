@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EmptyEmailAndPass.tc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6dfca3a9-2baa-4047-8b6a-ab8c3255aa97</testCaseGuid>
+</TestCaseEntity>

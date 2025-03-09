@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>verify_Close_PU_bap</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0fd636db-e4b0-499c-af85-cc506f23a6b9</testCaseGuid>
-</TestCaseEntity>
