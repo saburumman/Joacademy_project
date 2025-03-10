@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span/div/i</value>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div > i.ri-close-line</value>
+         <value>div.tw-absolute.tw-items-center</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>c39dd786-cc31-4c05-91a9-f9db4300f814</webElementGuid>
+      <webElementGuid>0f136b46-8e73-48d7-b72e-35200199831e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ri-close-line</value>
-      <webElementGuid>b2dc378c-e828-4ac4-963f-d74aaf368e02</webElementGuid>
+      <webElementGuid>fd558adb-5f5c-4dc9-be5c-fcedca2ffbf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[1]/div[2]/div[@class=&quot;ant-modal-root css-14i19y2&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-wrap-rtl&quot;]/div[@class=&quot;ant-modal css-14i19y2 blackFrdiayModal&quot;]/div[2]/div[@class=&quot;ant-modal-content&quot;]/button[@class=&quot;ant-modal-close&quot;]/span[@class=&quot;ant-modal-close-x&quot;]/div[1]/i[@class=&quot;ri-close-line&quot;]</value>
-      <webElementGuid>315aca09-4af0-4f29-b71d-6fd5cf030810</webElementGuid>
+      <webElementGuid>4b718f74-21b5-49f4-bea1-7a0561c406dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div/i</value>
-      <webElementGuid>b2e101f2-ed2c-450b-b21c-177f5a4d324f</webElementGuid>
+      <webElementGuid>1cd456c6-5396-432b-9432-62415ca493da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
