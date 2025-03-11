@@ -1,8 +1,7 @@
 
-package com.ea.utilities
+package Keywords.com.ea.utilities
 
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-
 import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.testobject.TestObject
@@ -23,7 +22,7 @@ public class courses extends methods{
 	@Keyword
 	def myCoursesClick() {
 
-		WebUI.click(findTestObject('Shanab/Courses/CourseButton/my_courses'))
+		WebUI.click(findTestObject('Courses/CourseButton/my_courses'))
 	}
 
 	@Keyword
@@ -66,23 +65,23 @@ public class courses extends methods{
 		//to apply the cart match with cart price
 		switch (coursePriceValue) {
 			case 50:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card50)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card50)
 				break
 
 			case 28:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card28)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card28)
 				break
 
 			case 10:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card10)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card10)
 				break
 
 			case 70:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card70)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card70)
 				break
 
 			case 100:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card100)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card100)
 				break
 
 			case 0:
@@ -111,9 +110,9 @@ public class courses extends methods{
 		WebElement okCardSubmit = driver.findElement(By.xpath("//button[contains(text(),'تم')]"))
 		this.hoverToTheButton(okCardSubmit)
 
-		WebUI.click(findTestObject('Shanab/Courses/CourseButton/my_courses'))
+		WebUI.click(findTestObject('Courses/CourseButton/my_courses'))
 
-		//	WebUI.click(findTestObject('Shanab/Courses/CourseButton/mu_courses_button'))
+		//	WebUI.click(findTestObject('Courses/CourseButton/mu_courses_button'))
 		Robot robot = new Robot()
 
 		robot.keyPress(KeyEvent.VK_ESCAPE)
@@ -170,23 +169,23 @@ public class courses extends methods{
 		//to apply the cart match with cart price
 		switch (coursePriceValue) {
 			case 50:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card50Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card50Blocked)
 				break
 
 			case 28:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card28Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card28Blocked)
 				break
 
 			case 10:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card10Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card10Blocked)
 				break
 
 			case 70:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card70Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card70Blocked)
 				break
 
 			case 100:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'),GlobalVariable.Card100Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/Fill_the_card'),GlobalVariable.Card100Blocked)
 				break
 
 			case 0:
@@ -280,28 +279,28 @@ public class courses extends methods{
 		WebElement submitButton = randomElement.findElement(By.xpath("//*[contains(text(), 'تفاصيل الدورة')]"))
 		this.hoverToTheButton(submitButton)
 
-		WebUI.click(findTestObject('Shanab/Courses/CourseButton/bu-card-from-course-details'))
+		WebUI.click(findTestObject('Courses/CourseButton/bu-card-from-course-details'))
 
 		//to apply the cart match with cart price
 		switch (coursePriceValue) {
 			case 50:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card50Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card50Blocked)
 				break
 
 			case 28:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card28Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card28Blocked)
 				break
 
 			case 10:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card10Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card10Blocked)
 				break
 
 			case 70:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card70Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card70Blocked)
 				break
 
 			case 100:
-				WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card100Blocked)
+				WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card100Blocked)
 				break
 
 			case 0:
@@ -357,27 +356,27 @@ public class courses extends methods{
 
 		if (cartname==courseDetailsName) {
 
-			WebUI.click(findTestObject('Shanab/Courses/CourseButton/bu-card-from-course-details'))
+			WebUI.click(findTestObject('Courses/CourseButton/bu-card-from-course-details'))
 			//to apply the cart match with cart price
 			switch (coursePriceValue) {
 				case 50:
-					WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card50)
+					WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card50)
 					break
 
 				case 28:
-					WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card28)
+					WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card28)
 					break
 
 				case 10:
-					WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card10)
+					WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card10)
 					break
 
 				case 70:
-					WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card70)
+					WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card70)
 					break
 
 				case 100:
-					WebUI.sendKeys(findTestObject('Shanab/Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card100)
+					WebUI.sendKeys(findTestObject('Courses/CourseButton/course-details-card-pass'),GlobalVariable.Card100)
 					break
 
 				case 0:
@@ -404,10 +403,10 @@ public class courses extends methods{
 
 			println("mached successfully")
 
-			WebUI.click(findTestObject('Shanab/Courses/CourseButton/By-course-confermation-from-course-details'))
+			WebUI.click(findTestObject('Courses/CourseButton/By-course-confermation-from-course-details'))
 
 
-			WebUI.click(findTestObject('Shanab/Courses/CourseButton/my_courses'))
+			WebUI.click(findTestObject('Courses/CourseButton/my_courses'))
 
 			Robot robot = new Robot()
 			robot.keyPress(KeyEvent.VK_ESCAPE)

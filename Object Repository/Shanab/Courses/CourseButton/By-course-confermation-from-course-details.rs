@@ -6,11 +6,12 @@
    <elementGuidId>a6c3bdfe-3c9c-4ab7-ab6a-edbb310a6e8a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button/span[text()='عرض دوراتي']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

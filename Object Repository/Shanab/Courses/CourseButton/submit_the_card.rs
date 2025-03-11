@@ -6,11 +6,12 @@
    <elementGuidId>af90a64c-f7df-454b-8f20-e012d785f18d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>//button[contains(text(),'أرسل')]</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>CSS</key>
+         <value>//button[contains(text(),'أرسل')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

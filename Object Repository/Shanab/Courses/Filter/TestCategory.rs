@@ -6,14 +6,16 @@
    <elementGuidId>ae5ebedd-f088-49a7-b163-ede95282524a</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#react-select-2-option-1</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

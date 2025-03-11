@@ -6,11 +6,12 @@
    <elementGuidId>9b4e5b92-261d-432b-b4a6-cba686c9b597</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id=':ra:-form-item']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

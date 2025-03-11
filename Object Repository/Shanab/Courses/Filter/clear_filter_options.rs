@@ -6,11 +6,12 @@
    <elementGuidId>c0b23bb9-d39d-46f4-af76-884ab325e337</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[contains(text(),'حذف التعيينات')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

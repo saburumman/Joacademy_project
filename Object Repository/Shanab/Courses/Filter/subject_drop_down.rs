@@ -6,12 +6,12 @@
    <elementGuidId>4d79b4fe-9179-4a23-a48c-797510a23451</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.css-15lsz6c-indicatorContainer</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='scroll-to-filter-container']/div[2]/div[3]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-15lsz6c-indicatorContainer</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -35,10 +35,10 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 // Enter the phone number
-WebUI.setText(findTestObject('Shanab/login/Page_- joacademy.com/input__phone_number'), GlobalVariable.PhoneNumber2)
+WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__phone_number'), GlobalVariable.PhoneNumber2)
 
 // Submit the login form
-WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_phone_number'))
+WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_phone_number'))
 
 //select the user
 // Get the WebDriver instance
@@ -50,13 +50,12 @@ if (elements.size() > 0) {
     // Generate a random index
     CustomKeywords.'com.ea.utilities.methods.randomSelector'(elements)
 
-    WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_phone_number'))
+    WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_phone_number'))
 
     //check the validation
-    CustomKeywords.'com.ea.utilities.methods.assertValidation'(validationMessage, xpath //check the validation
-        )
+    CustomKeywords.'com.ea.utilities.methods.assertValidation'(validationMessage, xpath) //check the validation
 } else {
-    WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_phone_number'))
+    WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_phone_number'))
 
     CustomKeywords.'com.ea.utilities.methods.assertValidation'(validationMessage, xpath)
 }

@@ -6,11 +6,12 @@
    <elementGuidId>009c82c4-acfd-4e5a-a799-8dd1595c9d7c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//p[@id=':ra:-form-item-message']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

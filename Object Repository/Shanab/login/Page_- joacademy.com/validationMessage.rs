@@ -6,17 +6,18 @@
    <elementGuidId>bcfa9d62-d8cb-41a7-b1e9-9584a7454fac</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[contains(text(),'الايميل المحدد غير صالح')]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>IMAGE</key>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'الايميل المحدد غير صالح')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

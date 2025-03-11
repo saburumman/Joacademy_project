@@ -26,13 +26,13 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 // Click the login button
-WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/login_by_email'))
+WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/login_by_email'))
 
 // Submit the login form
-WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_login'))
+WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/emptyEmailValidation'), 'الحقل مطلوب')
+WebUI.verifyElementText(findTestObject('Object Repository/login/Page_- joacademy.com/emptyEmailValidation'), 'الحقل مطلوب')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/emptyPasswordValidation'), 'الحقل مطلوب')
+WebUI.verifyElementText(findTestObject('Object Repository/login/Page_- joacademy.com/emptyPasswordValidation'), 'الحقل مطلوب')
 
 

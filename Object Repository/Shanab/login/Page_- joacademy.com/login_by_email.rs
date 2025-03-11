@@ -7,6 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
