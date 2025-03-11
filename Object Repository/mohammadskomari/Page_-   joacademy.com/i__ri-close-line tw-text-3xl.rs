@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__ri-close-line tw-text-3xl</name>
+   <tag></tag>
+   <elementGuidId>fd12062d-7a8f-428f-a318-5df8e73f1e5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.ri-close-line.tw-text-3xl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:re:']/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ffddfec4-f6e4-4d3a-a336-b18a7cceb55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-close-line tw-text-3xl</value>
+      <webElementGuid>339f00fa-14a3-4c9a-a615-600245ccd24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:re:&quot;)/div[@class=&quot;tw-absolute tw-right-1 tw-top-1 tw-flex tw-h-12 tw-w-12 tw-cursor-pointer tw-items-center tw-justify-center tw-rounded-full tw-bg-white tw-font-extrabold tw-text-[#262d3e] tw-shadow-md&quot;]/i[@class=&quot;ri-close-line tw-text-3xl&quot;]</value>
+      <webElementGuid>09b19dcf-96cd-4f5f-afe9-4efd057a26d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:re:']/div/i</value>
+      <webElementGuid>76f34f8f-82d1-4264-a076-521610a68a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/i</value>
+      <webElementGuid>30973905-5173-4e91-8320-04978753a458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>c36de89e-8bd0-481b-9726-a964c4db5837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.bold.tw-text-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-card']/div/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7402617-37e7-426f-a7cd-e8bd61ecd19b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bold tw-text-sm</value>
+      <webElementGuid>c509888a-fe8c-4a4a-a77e-3a7b966009e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>الصفحة الرئيسية</value>
+      <webElementGuid>adcc5cb1-be16-435e-ac69-f8ae637e6f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-card&quot;)/div[@class=&quot;tw-h-full tw-rounded-none lg:tw-rounded-[14px] tw-bg-[#AA8CF9]&quot;]/div[@class=&quot;tw-flex tw-h-full tw-flex-col tw-items-start tw-gap-[10px]&quot;]/div[@class=&quot;tw-w-full tw-space-y-4 tw-p-4&quot;]/a[@class=&quot;medium tw-flex tw-h-[48] tw-w-full tw-items-center tw-gap-4 tw-rounded-[10px] tw-text-[16px] !tw-bg-gradient-to-b tw-from-[#F2BF27] tw-to-[#D17B0E] tw-text-white tw-shadow-lg&quot;]/span[@class=&quot;bold tw-text-sm&quot;]</value>
+      <webElementGuid>eba66c99-4c12-45ac-9044-c9711f4acb63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-card']/div/div/div/a/span</value>
+      <webElementGuid>454ee0bf-ab2a-4b7f-8197-bd7e16170436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مكتبات'])[1]/following::span[1]</value>
+      <webElementGuid>cf53d886-b40f-4a4b-9e57-8b59f801e18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الامتحانات الإلكترونية'])[1]/following::span[1]</value>
+      <webElementGuid>e77f8978-1a49-45cd-a0b1-c50bd2c4446a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='موادي'])[1]/preceding::span[1]</value>
+      <webElementGuid>eb0e9094-c03a-4bf7-8849-a41834232760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⁠اسأل أستاذك'])[1]/preceding::span[2]</value>
+      <webElementGuid>b291d28b-67a4-45f0-9342-57bad04d231d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='الصفحة الرئيسية']/parent::*</value>
+      <webElementGuid>22f57e3e-955d-41ff-a63d-395926b8004d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>d176879f-d773-458f-8298-b5f56b0e728a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'الصفحة الرئيسية' or . = 'الصفحة الرئيسية')]</value>
+      <webElementGuid>25c1424b-5ea3-4f2e-af8f-59d83449e268</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

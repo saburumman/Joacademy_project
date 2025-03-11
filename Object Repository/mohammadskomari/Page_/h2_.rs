@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_</name>
+   <tag></tag>
+   <elementGuidId>7f99973d-71d0-4f48-9e6e-fbbc8722b8af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/a/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a9598da7-934e-4192-b6cc-c80cfa186263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>semi-bold tw-mt-5 tw-px-14 tw-text-center tw-leading-normal tw-text-white max-sm:tw-mt-0 max-sm:tw-px-5 max-sm:tw-text-base md:tw-text-[24px] tw-capitalize</value>
+      <webElementGuid>39bbca1e-4677-4f3e-b95a-ea7546aad5da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>برنامج التوجيهي و الثانوي</value>
+      <webElementGuid>36187c0a-92a9-459c-8f8e-f691c436ac0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/section[1]/div[@class=&quot;tw-mt-2 tw-flex tw-flex-wrap tw-justify-center tw-gap-2 md:tw-gap-4 md:tw-p-4&quot;]/a[1]/div[@class=&quot;tw-relative tw-flex tw-h-[214px] tw-w-[151px] tw-flex-col tw-items-center tw-justify-center tw-rounded-lg tw-duration-500 hover:tw--translate-y-6 max-sm:tw-h-[214px] max-sm:tw-w-[151px] md:tw-h-[391px] md:tw-w-[273px] tw-bg-[#0D2755]&quot;]/h2[@class=&quot;semi-bold tw-mt-5 tw-px-14 tw-text-center tw-leading-normal tw-text-white max-sm:tw-mt-0 max-sm:tw-px-5 max-sm:tw-text-base md:tw-text-[24px] tw-capitalize&quot;]</value>
+      <webElementGuid>994571d6-e3c3-4a25-9570-3086f3d097b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/a/div/h2</value>
+      <webElementGuid>eb72e812-c850-4805-bdda-84a7096f107d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر البرنامج الذي تفضل التصفح عبره، حتى تمكننا من خدمتك بأفضل طريقة ممكنة'])[1]/following::h2[1]</value>
+      <webElementGuid>82d13416-a4cf-4f77-9e18-59e3a1614085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='جو اكاديمي | جيل عربي متمكن'])[2]/following::h2[2]</value>
+      <webElementGuid>ba2fc27c-2067-4548-a44a-71861f45d60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='برنامج الجامعات و الكليات'])[1]/preceding::h2[1]</value>
+      <webElementGuid>91a8c349-2238-4979-b224-58961a3382b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='برنامج الصفوف الاساسية'])[1]/preceding::h2[2]</value>
+      <webElementGuid>51e40950-04bd-4e30-b4cd-4cc5d05bd156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='برنامج التوجيهي و الثانوي']/parent::*</value>
+      <webElementGuid>110edd97-79fe-422b-9f8d-7c5e2a9a2339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/h2</value>
+      <webElementGuid>1a4139f2-ff5a-49c9-9ce2-0e8f46ed33e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'برنامج التوجيهي و الثانوي' or . = 'برنامج التوجيهي و الثانوي')]</value>
+      <webElementGuid>12437584-faa0-4880-94ff-340a986864f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
