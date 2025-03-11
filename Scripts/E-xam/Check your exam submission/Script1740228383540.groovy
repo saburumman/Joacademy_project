@@ -26,18 +26,14 @@ import com.kms.katalon.core.webui.driver.DriverFactory
 import org.openqa.selenium.JavascriptExecutor
 
 def runTestCase3() {
-    // ⏩ تسجيل الدخول
     LoginTest login = new LoginTest()
     login.loginJoAcademy('saber22@gmail.com', 'RigbBhfdqOBGNlJIWM1ClA==')
     
-    // ⏩ تكبير نافذة المتصفح
     WebUI.maximizeWindow()
     
-    // ⏩ الانتقال إلى صفحة الاختبارات الإلكترونية
     WebUI.waitForElementVisible(findTestObject('navegate to the E-exam page/Page_- joacademy.com/button e exams'), 10)
     WebUI.click(findTestObject('navegate to the E-exam page/Page_- joacademy.com/button e exams'))
 
-    // 🔍 البحث عن أزرار "بدء الامتحان"
     List<WebElement> startExamButtons = WebUiCommonHelper.findWebElements(findTestObject('Object Repository/submet exam/Page_- joacademy.com/start exma'), 10)
     
     if (startExamButtons != null && !startExamButtons.isEmpty()) {
@@ -52,10 +48,8 @@ def runTestCase3() {
         return
     }
 
-    // ⏸️ الانتظار قليلاً قبل التبديل إلى نافذة الامتحان
     WebUI.delay(5)
     
-    // ⏩ التبديل إلى نافذة الاختبار (index 1)
     WebUI.switchToWindowIndex(1)
 
     // 🔍 البحث عن جميع الإجابات (أزرار radio) باستخدام الـ CSS المحدد
@@ -91,14 +85,10 @@ def runTestCase3() {
     js.executeScript("arguments[0].click();", WebUI.findWebElement(finishExamButton))
     WebUI.comment('✅ تم النقر على زر إنهاء الامتحان.')
 
-    // ⏸️ الانتظار قليلاً قبل التحقق من النتيجة
     WebUI.delay(5)
 
-    // 🔍 التحقق من عناصر "النتيجة"
     WebUI.verifyElementVisible(findTestObject('Object Repository/submet exam/Page_(1-10) - joacademy.com/exam review'))
 
-
-    // ⛔️ إغلاق المتصفح
     WebUI.closeBrowser()
 }
 

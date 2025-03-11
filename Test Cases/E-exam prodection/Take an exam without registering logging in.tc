@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Take an exam without registering logging in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c1961c1-8cd9-41da-b4bc-817f266b687f</testCaseGuid>
+</TestCaseEntity>

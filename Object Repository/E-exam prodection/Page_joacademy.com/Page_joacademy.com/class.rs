@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>field class</name>
+   <name>class</name>
    <tag></tag>
-   <elementGuidId>c7cb5d0f-3a07-4da7-92bf-d15ebf65da79</elementGuidId>
+   <elementGuidId>eef94a14-a473-453b-9821-72ecfd467aab</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.css-pnr4qt-control > div.css-hlgwow > div.css-19bb58m</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/div/div/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-pnr4qt-control > div.css-hlgwow > div.css-19bb58m</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7367faa3-3d5f-453e-bf5f-f29d1d0d75ed</webElementGuid>
+      <webElementGuid>ebae52f1-f18e-48c1-bd4d-217e262af419</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> css-19bb58m</value>
-      <webElementGuid>2d79fc38-4ecb-49f3-bd60-12d8af58ff5e</webElementGuid>
+      <value>css-19bb58m</value>
+      <webElementGuid>32996922-8122-447a-9ac7-20f171295179</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-w-full tw-relative !tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-pb-[20px] sm:tw-pb-[50px]&quot;]/div[@class=&quot;tw-rounded-lg tw-border tw-border-slate-200 tw-bg-white tw-text-slate-950 tw-shadow-sm dark:tw-border-slate-800 dark:tw-bg-slate-950 dark:tw-text-slate-50 tw-mb-4&quot;]/div[@class=&quot;tw-p-6 tw-pt-0 tw-flex tw-flex-col tw-gap-4 !tw-p-6&quot;]/div[@class=&quot;tw-grid tw-grid-cols-1 tw-gap-4 md:tw-grid-cols-3&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-gap-2&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-pnr4qt-control&quot;]/div[@class=&quot;css-hlgwow&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
-      <webElementGuid>c71b29c1-1c00-4c99-820e-2f483bc9c477</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-px-2 sm:tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-w-full tw-pb-[20px] sm:tw-pb-[50px]&quot;]/div[@class=&quot;tw-rounded-lg tw-border tw-border-slate-200 tw-bg-white tw-text-slate-950 tw-shadow-sm dark:tw-border-slate-800 dark:tw-bg-slate-950 dark:tw-text-slate-50 tw-mb-4&quot;]/div[@class=&quot;tw-p-6 tw-pt-0 tw-flex tw-flex-col tw-gap-4 !tw-p-6&quot;]/div[@class=&quot;tw-grid tw-grid-cols-1 tw-gap-4 md:tw-grid-cols-3&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-gap-2&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-pnr4qt-control&quot;]/div[@class=&quot;css-hlgwow&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
+      <webElementGuid>27fcaaf0-b440-4d4c-9bda-8a1319d0d79c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/div/div/div/div[2]/div/div/div/div[2]</value>
-      <webElementGuid>e1f4a9d0-b06a-4343-b714-e9fbad1a77b9</webElementGuid>
+      <webElementGuid>363a9407-b0e0-47b6-bde8-d94ef2078e98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر الصف'])[1]/following::div[1]</value>
-      <webElementGuid>3104e6af-fd1d-4d3a-aa39-97e82023d4ee</webElementGuid>
+      <webElementGuid>1d7db292-5608-49a9-9aa4-68f5ad6889fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,23 +69,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='الصف'])[1]/following::div[5]</value>
-      <webElementGuid>a34bfbb6-0419-47c8-a0ad-f3a0b58a6c43</webElementGuid>
+      <webElementGuid>62e2261e-1a40-4fce-a298-220def17dbd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No options'])[1]/preceding::div[3]</value>
-      <webElementGuid>55f49bfe-a1a4-4818-9c50-a89321d14b82</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الأول'])[1]/preceding::div[3]</value>
+      <webElementGuid>21bf9f32-1dbd-42a9-bf5c-63fb3e88616c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='المادة'])[1]/preceding::div[6]</value>
-      <webElementGuid>471d3969-1d1a-44bf-8498-f0d6ab63254b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الثاني'])[1]/preceding::div[4]</value>
+      <webElementGuid>d715c363-5ad8-448d-a050-96c1029d23ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div/div/div/div[2]</value>
-      <webElementGuid>8a4377b7-e455-4d89-8000-facd8feb21d8</webElementGuid>
+      <webElementGuid>d88988cb-2256-43ba-baed-b9e38f50ad59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_(1-10)</name>
+   <tag></tag>
+   <elementGuidId>bc2a560e-8eda-4176-8aa7-e97e6679c374</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/div[2]/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;سورة البلد الآيات الكريمة (1-10)&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8eadf08c-27e0-4bca-bea3-6fdae47391a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-my-0 tw-w-40 tw-text-[14px] tw-font-bold</value>
+      <webElementGuid>398c1952-1d8a-4332-a533-cbb7bc976e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>سورة البلد الآيات الكريمة (1-10)  </value>
+      <webElementGuid>4d7f116b-4143-482a-8c58-a50ab5c2040e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-px-2 sm:tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-w-full tw-pb-[20px] sm:tw-pb-[50px]&quot;]/div[2]/div[@class=&quot;tw-flex tw-flex-wrap tw-justify-start  tw-gap-4&quot;]/div[@class=&quot;tw-rounded-lg tw-border tw-border-slate-200 tw-bg-white tw-text-slate-950 tw-shadow-sm dark:tw-border-slate-800 dark:tw-bg-slate-950 dark:tw-text-slate-50 tw-border-xl tw-grow tw-p-9 tw-shadow-[0px_0px_7px_#00000029]&quot;]/div[@class=&quot;tw-flex tw-items-center tw-gap-5&quot;]/h2[@class=&quot;tw-my-0 tw-w-40 tw-text-[14px] tw-font-bold&quot;]</value>
+      <webElementGuid>a4f5ec96-ab3e-4232-8990-a1e2e5d0323f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/div[2]/div/div/div/h2</value>
+      <webElementGuid>37c35613-03f0-4086-99f6-8719c1914b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اختر المادة'])[1]/following::h2[1]</value>
+      <webElementGuid>36b3b0e1-a990-4e84-b3a6-f3a179952c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المادة'])[1]/following::h2[1]</value>
+      <webElementGuid>e94bc428-363b-40cc-9299-8aeb778ed69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='عدد الاسئلة'])[1]/preceding::h2[1]</value>
+      <webElementGuid>1ad47ff6-705e-4e8d-b399-fc0d4aae0eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مدة الامتحان'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a534b7cb-bfc0-4c92-9096-0eb505b7bdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='سورة البلد الآيات الكريمة (1-10)']/parent::*</value>
+      <webElementGuid>2763673c-2b9f-4739-85a7-43aa99ccf75a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h2</value>
+      <webElementGuid>b6eece52-e109-457a-8114-4da3eb64dd66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'سورة البلد الآيات الكريمة (1-10)  ' or . = 'سورة البلد الآيات الكريمة (1-10)  ')]</value>
+      <webElementGuid>77abaff9-5ee9-4ac2-856b-45f50541a451</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

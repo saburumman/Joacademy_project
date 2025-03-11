@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>2bb6f28d-0130-45ee-b1bf-989c7e448eb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navbar-card']/div/div[2]/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;الامتحانات الإلكترونية&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85a61d6b-40de-40d2-8d08-2cf8996a3302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>الامتحانات الإلكترونية</value>
+      <webElementGuid>9d6519f1-ead2-4176-9379-fb3d736e28e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>medium tw-flex tw-items-center tw-justify-center tw-whitespace-nowrap tw-px-2 tw-text-[1vw] xl:tw-px-4 xl:tw-text-base tw-text-black hover:tw-bg-gray-100 tw-h-full</value>
+      <webElementGuid>776e6dd5-0aaa-44c2-88cc-2f2a65121aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/online-exams</value>
+      <webElementGuid>96b4f779-57eb-4744-879a-324209763039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>الامتحانات الإلكترونية</value>
+      <webElementGuid>2cd9856e-3d3a-4c1f-a9d9-57364258a572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-card&quot;)/div[@class=&quot;tw-flex tw-h-full tw-items-center tw-justify-between tw-gap-4 tw-px-4 lg:tw-px-8&quot;]/div[@class=&quot;tw-hidden tw-h-full tw-items-center tw-justify-start lg:tw-flex&quot;]/div[@class=&quot;tw-hidden tw-h-full tw-items-center tw-justify-center lg:tw-flex&quot;]/a[@class=&quot;medium tw-flex tw-items-center tw-justify-center tw-whitespace-nowrap tw-px-2 tw-text-[1vw] xl:tw-px-4 xl:tw-text-base tw-text-black hover:tw-bg-gray-100 tw-h-full&quot;]</value>
+      <webElementGuid>65c40f7a-8558-4cd1-ab5f-c2cf392bfe13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navbar-card']/div/div[2]/div/a[3]</value>
+      <webElementGuid>13b3b2dd-0334-4ae9-ba53-132cd9392e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'الامتحانات الإلكترونية')]</value>
+      <webElementGuid>c9840cfb-73af-4da2-9cea-a27b8e77c47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='أخبارنا'])[1]/following::a[1]</value>
+      <webElementGuid>268a1429-6e43-46fc-a1bc-775e7228470e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مدرستنا'])[1]/following::a[2]</value>
+      <webElementGuid>3e0a785b-4f47-4eb0-b03e-43f96207d554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='كن مندوبنا'])[1]/preceding::a[1]</value>
+      <webElementGuid>c3d4a987-4612-4bf7-b3ea-52a079c6664d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مكتبات'])[1]/preceding::a[2]</value>
+      <webElementGuid>a8485421-c6ae-4b1b-8d58-f7297aad3761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='الامتحانات الإلكترونية']/parent::*</value>
+      <webElementGuid>525eafd6-a06d-43e2-885e-29039bff19e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/online-exams')]</value>
+      <webElementGuid>c3681b82-be86-4780-8182-02e86cfa3ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>33a76624-64f1-4519-b9ae-353bf8f4d6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/online-exams' and (text() = 'الامتحانات الإلكترونية' or . = 'الامتحانات الإلكترونية')]</value>
+      <webElementGuid>e6de9e61-56ec-40b2-a7e3-7dcc91d9bcb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

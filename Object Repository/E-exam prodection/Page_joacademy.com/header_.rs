@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_</name>
+   <tag></tag>
+   <elementGuidId>c1322198-1d23-49c0-9066-3b3d416b672c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;الامتحانات الإلكترونيةهنا يمكنك تصفح جميع الامتحانات الإلكترونية للإستفادة من ام&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>d93717d0-0fab-41f8-8b80-767e53302c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-mb-[40px] tw-mt-[20px] tw-flex tw-flex-col tw-items-center tw-capitalize max-sm:tw-mb-[24px]</value>
+      <webElementGuid>3b86f2b9-03a8-499b-8318-969a4ed9c6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>الامتحانات الإلكترونيةهنا يمكنك تصفح جميع الامتحانات الإلكترونية للإستفادة من امتحانات جو أكاديمي</value>
+      <webElementGuid>1078f75c-844d-42e1-aeaf-8da346f16654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-[#F9F9F9]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-px-2 sm:tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-w-full !tw-overflow-hidden&quot;]/div[1]/main[@class=&quot;tw-mt-4 tw-w-full tw-pb-[20px] sm:tw-pb-[50px]&quot;]/header[@class=&quot;tw-mb-[40px] tw-mt-[20px] tw-flex tw-flex-col tw-items-center tw-capitalize max-sm:tw-mb-[24px]&quot;]</value>
+      <webElementGuid>2989d476-aacf-40fa-941c-f902cf1cc6f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/main/header</value>
+      <webElementGuid>33663ed1-b1c1-4a4a-a684-93d77653cdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الامتحانات الإلكترونية'])[2]/following::header[1]</value>
+      <webElementGuid>309eb96d-0e3c-49ad-a350-7c2999b2f5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الرئيسية'])[1]/following::header[1]</value>
+      <webElementGuid>8d15c8ff-9f40-46a8-a12b-283a9c7e426c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>92137bea-711f-4402-a1af-c90c57926259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'الامتحانات الإلكترونيةهنا يمكنك تصفح جميع الامتحانات الإلكترونية للإستفادة من امتحانات جو أكاديمي' or . = 'الامتحانات الإلكترونيةهنا يمكنك تصفح جميع الامتحانات الإلكترونية للإستفادة من امتحانات جو أكاديمي')]</value>
+      <webElementGuid>e89c5327-4bc8-4cf0-9d88-41714c935208</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
