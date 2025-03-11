@@ -37,7 +37,7 @@ WebUI.navigateToUrl('https://www.joacademy.com/')
 
 WebUI.click(findTestObject('FarahAnasweh/recording login test case/Page_- joacademy.com/select program from landing page'))
 
-WebUI.click(findTestObject('Object Repository/FarahAnasweh/recording login test case/Page_- joacademy.com/splash popup'))
+WebUI.click(findTestObject('Object Repository/FarahAnasweh/office hour/Page_2007 - joacademy.com/splash popup'))
 
 WebUI.click(findTestObject('FarahAnasweh/recording login test case/Page_- joacademy.com/login button'))
 
