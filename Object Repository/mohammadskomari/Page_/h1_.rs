@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_</name>
+   <tag></tag>
+   <elementGuidId>9e2d7bf6-3564-4040-b557-cdc836ccab46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='دوراتي']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>818db941-ff16-4f25-ac75-976ad4224da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bold !tw-w-1/2 tw-text-[2rem] md:!tw-w-full xl:tw-text-[2.25rem] tw-text-white</value>
+      <webElementGuid>79a05d32-9a4c-4f43-b4e5-ee1d82b05e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>دوراتي</value>
+      <webElementGuid>fce77be8-7f5e-4d13-b275-6f654dcd3bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-gradient-to-br tw-from-[#905DF5] tw-to-[#813BEC]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-px-2 sm:tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;tw-mx-auto tw-max-w-[1024px]&quot;]/section[@class=&quot;tw-relative tw-mt-8 tw-h-[250px] md:tw-h-[210px] xl:tw-h-[223px]&quot;]/div[@class=&quot;tw-bottom-0 tw-flex tw-h-[250px] tw-w-full tw-rounded-md tw-px-[2%] md:tw-absolute md:tw-h-[190px] xl:tw-h-[201px] xl:tw-px-[5%] !tw-bg-[#6524BF]&quot;]/div[@class=&quot;tw-mr-8 tw-mt-6 tw-flex  tw-flex-wrap tw-items-center tw-py-4  max-sm:tw-mr-4 max-sm:tw-mt-0 md:tw-flex-col  md:tw-flex-nowrap md:tw-items-start&quot;]/h1[@class=&quot;bold !tw-w-1/2 tw-text-[2rem] md:!tw-w-full xl:tw-text-[2.25rem] tw-text-white&quot;]</value>
+      <webElementGuid>b60b0fb0-c390-43b2-96f8-ddec3e25b8a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div/div/section/div/div/h1</value>
+      <webElementGuid>83f0bd8c-8c11-4949-bd58-0437e687df84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المدرسة'])[1]/following::h1[1]</value>
+      <webElementGuid>4e8ccc42-1ba6-4644-9383-373a839569ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='معلمون'])[1]/following::h1[1]</value>
+      <webElementGuid>d539e0d2-efca-4761-855b-1f24b57c9a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الكل'])[1]/preceding::h1[1]</value>
+      <webElementGuid>2926c7d9-c454-4b6a-a325-0cdc8609c929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='النشطة'])[1]/preceding::h1[1]</value>
+      <webElementGuid>7c18ae28-24d9-4754-9853-894151211256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='دوراتي']/parent::*</value>
+      <webElementGuid>e4380589-ec32-4776-9672-803b92a1964f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>d678e961-195f-412e-aa8f-74c7861d8e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'دوراتي' or . = 'دوراتي')]</value>
+      <webElementGuid>8ddf822b-a25f-40d8-ad43-b0cdf86fe838</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

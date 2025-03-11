@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>cde3e036-d25e-482a-a32c-42e920d6db5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[2]/div/div/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>56cd0189-a69a-4b4e-83c9-da7dd485ddec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-text semi-bold tw-text-2xl tw-text-[#FFFFFF]</value>
+      <webElementGuid>ebb0bed2-97e9-4123-8014-6aaf546f7fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>موادي</value>
+      <webElementGuid>c1efd973-aa5c-4ab0-ac2f-20ec151ed58c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;tw-flex tw-min-h-screen tw-w-full tw-flex-col tw-justify-between tw-bg-gradient-to-br tw-from-[#905DF5] tw-to-[#813BEC]&quot;]/div[@class=&quot;tw-w-full&quot;]/div[@class=&quot;tw-relative tw-flex tw-w-full&quot;]/div[@class=&quot;tw-flex tw-flex-col tw-relative !tw-w-full tw-px-2 sm:tw-px-4 md:tw-px-[30px] lg:tw-px-[40px] 2xl:tw-px-[100px] tw-mx-auto tw-w-full lg:tw-w-[calc(100vw-280px)] !tw-overflow-hidden&quot;]/div[1]/div[@class=&quot;tw-mx-auto tw-max-w-[1440px]&quot;]/div[@class=&quot;tw-my-8 tw-flex tw-flex-col tw-items-start tw-justify-between tw-gap-6 xl:tw-flex-row&quot;]/div[@class=&quot;tw-flex tw-w-full tw-flex-col tw-items-start tw-justify-center tw-gap-4  md:tw-gap-10 xl:tw-w-2/3 xl:tw-max-w-[696px] 2xl:tw-max-w-full&quot;]/div[@class=&quot;tw-rounded-lg tw-border tw-border-slate-200 tw-bg-white tw-text-slate-950 tw-shadow-sm dark:tw-border-slate-800 dark:tw-bg-slate-950 dark:tw-text-slate-50 tw-relative !tw-w-full tw-space-y-4 tw-border-none tw-p-6 tw-px-16 !tw-bg-[#AA8CF9]&quot;]/div[@class=&quot;tw-mb-4 tw-flex tw-w-full tw-justify-between&quot;]/p[@class=&quot;tw-text semi-bold tw-text-2xl tw-text-[#FFFFFF]&quot;]</value>
+      <webElementGuid>e5e315fe-be9c-47cd-b846-63e4c781e1eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div/div/div/div/div/div/p</value>
+      <webElementGuid>1c182bd7-3a25-4a5b-9a29-eca9d77196c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المدرسة'])[1]/following::p[1]</value>
+      <webElementGuid>31b0aa50-62e3-4b1f-850a-5bc3c0a3b35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='معلمون'])[1]/following::p[1]</value>
+      <webElementGuid>f2d360cf-20d1-4509-ab5c-d45f0a27c4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مشاهدة الحصص'])[1]/preceding::p[4]</value>
+      <webElementGuid>1fd03911-c3f9-4702-b584-48965a062f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous slide'])[1]/preceding::p[4]</value>
+      <webElementGuid>e127e8d3-b0a0-4f0c-b09b-2ed83a0496ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>227bc929-a521-4d26-9d18-eb891c4653ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'موادي' or . = 'موادي')]</value>
+      <webElementGuid>86a6f386-3c6a-4b5b-b2bc-937e496824bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>5fa76935-a969-4393-822f-a7e14c37838c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-card']/div/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>100711f3-08f8-4d4f-8d16-3e708f88abe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>medium tw-flex tw-h-[48] tw-w-full tw-items-center tw-gap-4 tw-rounded-[10px] tw-text-[16px] tw-bg-[#6524BF] tw-text-white tw-shadow-lg</value>
+      <webElementGuid>4086da2c-5022-474d-96f6-17c00263af8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/courses</value>
+      <webElementGuid>37ebdf5f-23a5-4260-8714-ca9ff00ee65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>موادي</value>
+      <webElementGuid>d1e9e21a-7413-49f9-90dd-cc46c35b16f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-card&quot;)/div[@class=&quot;tw-h-full tw-rounded-none lg:tw-rounded-[14px] tw-bg-[#AA8CF9]&quot;]/div[@class=&quot;tw-flex tw-h-full tw-flex-col tw-items-start tw-gap-[10px]&quot;]/div[@class=&quot;tw-w-full tw-space-y-4 tw-p-4&quot;]/a[@class=&quot;medium tw-flex tw-h-[48] tw-w-full tw-items-center tw-gap-4 tw-rounded-[10px] tw-text-[16px] tw-bg-[#6524BF] tw-text-white tw-shadow-lg&quot;]</value>
+      <webElementGuid>24fdc4b9-6a22-42ec-866d-de57402ac684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-card']/div/div/div/a[2]</value>
+      <webElementGuid>045cbe48-60c4-4567-ac0e-2e004a673cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الصفحة الرئيسية'])[1]/following::a[1]</value>
+      <webElementGuid>2d45f874-771b-40cb-86e0-60cb3d80262c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مكتبات'])[1]/following::a[7]</value>
+      <webElementGuid>ed03d69b-ebd7-417d-b9b2-3177a8c94e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⁠اسأل أستاذك'])[1]/preceding::a[1]</value>
+      <webElementGuid>0a036a45-e644-441c-ae52-4743855e24d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/courses')]</value>
+      <webElementGuid>09a02037-b070-4392-8bc8-593c3774b5fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a[2]</value>
+      <webElementGuid>c5b48c69-be24-4773-a9a7-77bdbd86b459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/courses' and (text() = 'موادي' or . = 'موادي')]</value>
+      <webElementGuid>9eacf6fc-7ba8-4718-8176-26966dcf03c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
