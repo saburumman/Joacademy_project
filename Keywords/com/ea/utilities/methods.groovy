@@ -1,5 +1,5 @@
 
-package Keywords.com.ea.utilities
+package com.ea.utilities
 
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.annotation.Keyword

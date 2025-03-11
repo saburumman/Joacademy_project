@@ -6,16 +6,15 @@
    <elementGuidId>f19352c7-1fb1-4ac3-91ea-ad4eb1ead423</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[text()='دوراتي']</value>
+         <key>CSS</key>
+         <value>a[href='/user/courses']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>a[href='/user/courses']</value>
+         <key>XPATH</key>
+         <value>//span[text()='دوراتي']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

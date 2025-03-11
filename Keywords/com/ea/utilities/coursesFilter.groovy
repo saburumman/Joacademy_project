@@ -1,6 +1,7 @@
-package Keywords.com.ea.utilities
+package com.ea.utilities
 
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
 import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.webui.driver.DriverFactory
@@ -18,7 +19,7 @@ public class coursesFilter extends methods {
 	def category() {
 
 		// Click on category filter
-		WebUI.click(findTestObject('Courses/Filter/category_drop_down'))
+		WebUI.click(findTestObject('Shanab/Courses/Filter/category_drop_down'))
 
 		// Get the list of categories
 		WebDriver driver = DriverFactory.getWebDriver()
@@ -34,7 +35,7 @@ public class coursesFilter extends methods {
 
 
 		// Click on sub-category filter drop-down
-		WebUI.click(findTestObject('Courses/Filter/sub_category_drop_down'))
+		WebUI.click(findTestObject('Shanab/Courses/Filter/sub_category_drop_down'))
 
 		List<WebElement> subCategoryElement = driver.findElements(By.cssSelector("div[role='option']"))
 
@@ -42,7 +43,7 @@ public class coursesFilter extends methods {
 
 			println("Sub-category dropdown is empty. Selecting a different category.")
 
-			WebUI.click(findTestObject('Courses/Filter/clear_filter_options'))
+			WebUI.click(findTestObject('Shanab/Courses/Filter/clear_filter_options'))
 
 			category()
 			subcategory()
@@ -56,7 +57,7 @@ public class coursesFilter extends methods {
 	def subject() {
 
 		// Click on sub-category filter drop-down
-		WebUI.click(findTestObject('Courses/Filter/subject_drop_down'))
+		WebUI.click(findTestObject('Shanab/Courses/Filter/subject_drop_down'))
 
 		// Get the list of sub-categories
 		WebDriver driver = DriverFactory.getWebDriver()
@@ -89,7 +90,7 @@ public class coursesFilter extends methods {
 	@Keyword
 	def teacher() {
 		// Click on sub-category filter drop-down
-		WebUI.click(findTestObject('Courses/Filter/teacher_drop_down'))
+		WebUI.click(findTestObject('Shanab/Courses/Filter/teacher_drop_down'))
 
 		// Get the list of sub-categories
 		WebDriver driver = DriverFactory.getWebDriver()
@@ -109,7 +110,7 @@ public class coursesFilter extends methods {
 	//		WebDriver driver = DriverFactory.getWebDriver()
 	//
 	//		// Click on the category filter drop-down
-	//		WebUI.click(findTestObject('Courses/Filter/category_drop_down'))
+	//		WebUI.click(findTestObject('Shanab/Courses/Filter/category_drop_down'))
 	//
 	//		// Locate the specific element by XPath
 	//		WebElement element = driver.findElement(By.xpath('//*[@id="react-select-2-option-1"]'))

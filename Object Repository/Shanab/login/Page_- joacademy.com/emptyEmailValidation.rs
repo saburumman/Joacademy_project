@@ -6,12 +6,11 @@
    <elementGuidId>09c33f90-dcb8-4a2c-b069-9936140c8c09</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@id = '#\\:R1l6jml6\\:-form-item-message']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@id = '#\\:R1l6jml6\\:-form-item-message']</value>
       </entry>
       <entry>
          <key>XPATH</key>

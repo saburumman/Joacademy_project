@@ -27,7 +27,7 @@ import org.openqa.selenium.By
 CustomKeywords.'com.ea.utilities.loginTest.loginToJoAcademy'()
 
 //Navigate to courses page
-WebUI.click(findTestObject('Courses/CourseButton/CourseButton'))
+WebUI.click(findTestObject('Shanab/Courses/CourseButton/CourseButton'))
 
  // category function
 CustomKeywords.'com.ea.utilities.coursesFilter.category'( )

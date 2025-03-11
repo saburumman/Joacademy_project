@@ -30,20 +30,20 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 // Click the login button
-WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/login_by_email'))
+WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/login_by_email'))
 
 // Enter the username
-WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__email'), GlobalVariable.InvalidUserName)
+WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__email'), GlobalVariable.InvalidUserName)
 
 // Enter the password
-WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__password'), GlobalVariable.PassWord)
+WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__password'), GlobalVariable.PassWord)
 
 // Submit the login form
-WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_login'))
+WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_login'))
 
 String validationMessage = 'كلمة المرور او الإميل غير صحيح'
 
 String xpath = ''
 
-WebUI.verifyElementText(findTestObject('login/Page_- joacademy.com/invalid_email'), 'كلمة المرور او الإميل غير صحيح')
+WebUI.verifyElementText(findTestObject('Shanab/login/Page_- joacademy.com/invalid_email'), 'كلمة المرور او الإميل غير صحيح')
 

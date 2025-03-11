@@ -38,9 +38,9 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 // Enter the phone number
-WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__phone_number'), GlobalVariable.PhoneNumber2)
+WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__phone_number'), GlobalVariable.PhoneNumber2)
 // Submit the login form
-WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_phone_number'))
+WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_phone_number'))
 //select the user
 // Get the WebDriver instance
 WebDriver driver = DriverFactory.getWebDriver()
@@ -52,9 +52,9 @@ if (elements.size() > 0) {
 CustomKeywords.'com.ea.utilities.methods.randomSelector'(elements)
 
 	
-	WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__otp'),GlobalVariable.InvalidOTP)
+	WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__otp'),GlobalVariable.InvalidOTP)
 	
-	WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_phone_number'))
+	WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_phone_number'))
 	
 	//check the validation
 	
@@ -64,9 +64,9 @@ CustomKeywords.'com.ea.utilities.methods.checkOTPValidation'(validationMessage)
 	
 	
 } else {
-	WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__otp'),GlobalVariable.InvalidOTP)
+	WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__otp'),GlobalVariable.InvalidOTP)
 	
-	WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_phone_number'))
+	WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_phone_number'))
 	
 	//check the validation
 	

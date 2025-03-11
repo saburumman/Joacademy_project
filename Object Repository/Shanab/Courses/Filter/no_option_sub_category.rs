@@ -6,12 +6,11 @@
    <elementGuidId>3a7989bd-dcad-4e03-9b6b-c4220000feee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div[aria-multiselectable='false']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

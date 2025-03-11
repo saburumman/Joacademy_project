@@ -1,4 +1,4 @@
-package Keywords.com.ea.utilities
+package com.ea.utilities
 
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.annotation.Keyword
@@ -24,15 +24,15 @@ public class loginTest {
 		WebUI.navigateToUrl(Global.URL)
 
 		// Click the login button
-		WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/login_by_email'))
+		WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/login_by_email'))
 
 		// Enter the user name
-		WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__email'),Global.UserName)
+		WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__email'),Global.UserName)
 
 		// Enter the password
-		WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__password'),Global.PassWord)
+		WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__password'),Global.PassWord)
 
 		// Submit the login form
-		WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_login'))
+		WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_login'))
 	}
 }
