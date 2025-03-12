@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>change program selector</name>
+   <name>joacademy logo new</name>
    <tag></tag>
-   <elementGuidId>2d3a3cee-eaf2-49f4-8de4-515a71372238</elementGuidId>
+   <elementGuidId>ba9689eb-0388-460d-a475-55f250c6889d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]</value>
+         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.tw-justify-evenly</value>
+         <value>[alt='JO LOGO']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
