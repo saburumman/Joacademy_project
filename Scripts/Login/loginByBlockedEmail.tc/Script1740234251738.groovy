@@ -30,17 +30,17 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 // Click the login button
-WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/login_by_email'))
+WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/login_by_email'))
 
 // Enter the username
-WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__email'), GlobalVariable.BlockedUserName)
+WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__email'), GlobalVariable.BlockedUserName)
 
 // Enter the password
-WebUI.setText(findTestObject('Object Repository/login/Page_- joacademy.com/input__password'), GlobalVariable.PassWord)
+WebUI.setText(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/input__password'), GlobalVariable.PassWord)
 
 // Submit the login form
-WebUI.click(findTestObject('Object Repository/login/Page_- joacademy.com/Submit_login'))
+WebUI.click(findTestObject('Object Repository/Shanab/login/Page_- joacademy.com/Submit_login'))
 
-WebUI.verifyElementText(findTestObject('login/Page_- joacademy.com/blocked_email_validation'), 'ليس لديك إذن لتسجيل الدخول :)')
+WebUI.verifyElementText(findTestObject('Shanab/login/Page_- joacademy.com/blocked_email_validation'), 'ليس لديك إذن لتسجيل الدخول :)')
 
 

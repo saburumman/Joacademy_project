@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id=':ra:-form-item']</value>
+         <value>//*[@id=&quot;:rb:-form-item&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9e8151b2-170f-40d8-8683-ef3ad4b27fda</webElementGuid>
+      <webElementGuid>5095a839-5f81-4e33-8188-0b0e0e06883f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>one-time-code</value>
-      <webElementGuid>89f0817a-5e3a-4e46-a199-84424864168d</webElementGuid>
+      <webElementGuid>3a4c1871-00c1-4d38-af88-d4d46916f903</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>disabled:tw-cursor-not-allowed</value>
-      <webElementGuid>ad3ac4bd-0f12-45a0-8f5b-680014b576c2</webElementGuid>
+      <webElementGuid>046aff96-2347-4190-8071-dae602f36be7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pin</value>
-      <webElementGuid>5bd5227c-7722-447a-a066-795835988001</webElementGuid>
+      <webElementGuid>bce8a1a8-7a19-4f85-9e02-8b776bc5a629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:ra:-form-item</value>
-      <webElementGuid>2f2d8ee4-e506-4a1a-bbbc-8be007c6182d</webElementGuid>
+      <webElementGuid>d193c047-12d7-4a09-ba9e-5a8ec9e1592a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>:ra:-form-item-description</value>
-      <webElementGuid>d9d9aea0-7440-436c-b0c9-b5f2393e8801</webElementGuid>
+      <webElementGuid>bd6e01bc-2f34-40fc-b9d1-531d2aca54fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>523909b5-f151-45e5-be62-d08aba60f29f</webElementGuid>
+      <webElementGuid>cd882eea-80d1-4001-9f77-f2fe4d635377</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>data-input-otp</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8d2608a0-177e-4693-b357-bbcb1800a190</webElementGuid>
+      <webElementGuid>2232b83a-fd99-47ac-a760-56243c4ee2d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>numeric</value>
-      <webElementGuid>17fa8656-13c5-4748-81a9-07d37982e5fe</webElementGuid>
+      <webElementGuid>03e90d04-9008-4964-a31b-b3645e61a424</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>^\d+$</value>
-      <webElementGuid>c12ad4ce-e02a-4607-b67b-2fcfa3928b7a</webElementGuid>
+      <webElementGuid>53a55c37-4d22-491f-adf6-2b9e49b9abf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>6</value>
-      <webElementGuid>178e84e0-ece5-4ea0-aeab-2665eec0952a</webElementGuid>
+      <webElementGuid>5c6f6981-69c7-4a06-b053-cc4b63c3dba3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>value</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>4d14eb8b-d590-43b3-8509-13a1515e8293</webElementGuid>
+      <webElementGuid>19b53feb-2f40-458c-b745-48f0fdc94a74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>data-input-otp-mss</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>289350c2-3762-4d6e-93e0-74e2dcf33a4c</webElementGuid>
+      <webElementGuid>b2833fc7-6be7-45d2-b098-f3e522849c80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>data-input-otp-mse</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9491c18d-47a1-4a43-82e8-8894d865fd86</webElementGuid>
+      <webElementGuid>ba287c3c-f67f-41b9-b520-b88b1aef5172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:ra:-form-item&quot;)</value>
-      <webElementGuid>f3a882e3-e74c-42ed-9e6e-a007bb4a47b1</webElementGuid>
+      <webElementGuid>27fd0ba7-7ecd-4d52-a005-b039f8e1035c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id=':ra:-form-item']</value>
-      <webElementGuid>c2b48291-2fc0-4963-8ff3-98f1551e5897</webElementGuid>
+      <webElementGuid>ff8409de-3eb5-403c-a630-073122135207</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/div/div/section/form/div/div/div[2]/input</value>
-      <webElementGuid>6a04ef90-6ef6-40fb-8d4c-c360c83f4b21</webElementGuid>
+      <webElementGuid>b167ee6f-fc44-4416-a01a-12f309702e9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>bba47397-213c-426e-a027-3fa88daddb2b</webElementGuid>
+      <webElementGuid>c3391009-ea77-4ac4-88aa-019b37c4f583</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'pin' and @id = ':ra:-form-item']</value>
-      <webElementGuid>c2df1258-2b0a-4615-a02d-480cdc0bad38</webElementGuid>
+      <webElementGuid>109904ce-8f83-4ba8-8078-7ab806b696a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

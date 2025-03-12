@@ -6,11 +6,11 @@
    <elementGuidId>a205fcdd-f5df-475e-b5bb-46aca49ee5d0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[text()='تفعيل بالبطاقة']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//button[text()='تفعيل بالبطاقة']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

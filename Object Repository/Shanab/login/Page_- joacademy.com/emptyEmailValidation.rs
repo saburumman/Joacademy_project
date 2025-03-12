@@ -11,11 +11,10 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p[@id=':R1l6jnl6:-form-item-message'][contains(text(),'الحقل مطلوب')]</value>
+         <value>//*[@id=&quot;:R6kqed6:-form-item-message&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

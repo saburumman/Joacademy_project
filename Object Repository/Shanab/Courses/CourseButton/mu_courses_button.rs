@@ -6,15 +6,14 @@
    <elementGuidId>d3f8283d-eb43-43c1-9b38-f0b7ae2e55e1</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>button[type='button'][xpath='1']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

@@ -26,10 +26,10 @@ import org.openqa.selenium.By as By
 CustomKeywords.'com.ea.utilities.loginTest.loginToJoAcademy'()
 
 // Click on the Course Button
-WebUI.click(findTestObject('Courses/CourseButton/CourseButton'))
+WebUI.click(findTestObject('Shanab/Courses/CourseButton/CourseButton'))
 
 // Set the search text for the course
-WebUI.setText(findTestObject('Courses/Filter/search-bar'), 'رياضيات - علمي - مسجل فصل اول - محمد صالح - 2007')
+WebUI.setText(findTestObject('Shanab/Courses/Filter/search-bar'), 'رياضيات - علمي - مسجل فصل اول - محمد صالح - 2007')
 
 // Locate the "Activate with Card" button
 WebElement cardRegister = DriverFactory.getWebDriver().findElement(By.xpath('//button[text()="تفعيل بالبطاقة"]'))
@@ -38,7 +38,7 @@ WebElement cardRegister = DriverFactory.getWebDriver().findElement(By.xpath('//b
 CustomKeywords.'com.ea.utilities.methods.hoverToTheButton'(cardRegister)
 
 // Enter the card details
-WebUI.setText(findTestObject('Courses/CourseButton/Fill_the_card'), GlobalVariable.Card100)
+WebUI.setText(findTestObject('Shanab/Courses/CourseButton/Fill_the_card'), GlobalVariable.Card100)
 
 // Submit the card
 WebElement CardSubmit = DriverFactory.getWebDriver().findElement(By.xpath("//button[contains(text(),'أرسل')]"))
