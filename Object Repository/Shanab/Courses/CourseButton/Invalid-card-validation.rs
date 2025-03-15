@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Fill_the_card</name>
+   <name>Invalid-card-validation</name>
    <tag></tag>
-   <elementGuidId>683d2fec-583e-43a6-a665-b133bf5922e2</elementGuidId>
+   <elementGuidId>7f032e0d-7aae-4413-ba33-48735e7805eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@placeholder=&quot;مثال: 1111 1111 1111 1111&quot;]</value>
+         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -15,10 +15,10 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>p.undefined</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

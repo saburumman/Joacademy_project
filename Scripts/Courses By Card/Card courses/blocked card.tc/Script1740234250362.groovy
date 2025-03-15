@@ -45,9 +45,12 @@ List<WebElement> elements = driver.findElements(By.xpath('//article'))
 CustomKeywords.'com.ea.utilities.courses.CardCourse'(elements)
 
 //check the successful message
-String validationMessage = 'البطاقة غير موجودة او مستخدمة'
+//String validationMessage = "Forbidden"
+//
+//String xpath = "//p[contains(text(), 'Forbidden')]']"
+//
+//CustomKeywords.'com.ea.utilities.methods.assertValidation'(validationMessage, xpath)
 
-String xpath = '//p[@id=\':r13:-form-item-message\']'
+WebUI.verifyElementText(findTestObject('Shanab/Courses/CourseButton/Invalid-card-validation'), 'Forbidden')
 
-CustomKeywords.'com.ea.utilities.methods.assertValidation'(validationMessage, xpath)
 

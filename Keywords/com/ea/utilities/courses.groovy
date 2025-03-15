@@ -16,6 +16,9 @@ import org.openqa.selenium.By
 import internal.GlobalVariable
 import org.openqa.selenium.JavascriptExecutor
 import java.awt.event.KeyEvent
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
 
 public class courses extends methods{
 
@@ -162,9 +165,24 @@ public class courses extends methods{
 		int coursePriceValue = Integer.parseInt(priceText.replaceAll("[^0-9]", ""));
 		println("Price of the selected cart: ${coursePriceValue}")
 
+		if(coursePriceValue==0){
+			println("The card price = 0")
+			CardCourse()
+		}else {
+		// click on the cart to navigate to the course details
+		WebElement clickOnCartName = randomElement.findElement(By.cssSelector("h2.tw-font-bold"))
+		this.hoverToTheButton(clickOnCartName)
+		
 		// Locate the submit button inside the selected cart
-		WebElement submitButton = randomElement.findElement(By.xpath(".//button[contains(text(), 'تفعيل بالبطاقة')]"))
-		this.hoverToTheButton(submitButton)
+//		WebElement submitButton = randomElement.findElement(By.xpath('//*[@id="__next"]/div[1]/div[2]/div[2]/div[2]/div/div/main/div[2]/div[1]/div[3]/div[2]/button[1]'))
+//		this.hoverToTheButton(submitButton)
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		
+		WebElement submitButton = wait.until(ExpectedConditions.presenceOfElementLocated(
+			By.xpath("//button[contains(text(), 'تفعيل البطاقة')]")
+		));
+		
+		this.hoverToTheButton(submitButton);
 
 		//to apply the cart match with cart price
 		switch (coursePriceValue) {
@@ -201,7 +219,7 @@ public class courses extends methods{
 		WebElement cardSubmit = driver.findElement(By.xpath("//button[contains(text(),'أرسل')]"))
 		this.hoverToTheButton(cardSubmit)
 	}
-
+	}
 	@Keyword
 	def emptyCardCourse(List<WebElement> elements) {
 		// Get the WebDriver instance
