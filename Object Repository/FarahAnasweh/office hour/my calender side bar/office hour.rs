@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>change program selector</name>
+   <name>office hour</name>
    <tag></tag>
-   <elementGuidId>2d3a3cee-eaf2-49f4-8de4-515a71372238</elementGuidId>
+   <elementGuidId>e8d6c2f2-4809-4858-aa3f-9a3f70fa893f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>.tw-items-stretch</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value>.tw-ps-1</value>
+         <value>.tw-items-stretch</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

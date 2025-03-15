@@ -3,15 +3,15 @@
    <description></description>
    <name>splash popup</name>
    <tag></tag>
-   <elementGuidId>ac7d1819-4816-409d-96da-a8ceecfd75d6</elementGuidId>
+   <elementGuidId>43e11e77-a685-4020-95ca-7ebd15e4ecdf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.tw-absolute.tw-cursor-pointer i.ri-close-line</value>
+         <value>div > i.ri-close-line</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//span/div/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ba612091-a514-4505-9562-bb4a6e6dcfc2</webElementGuid>
+      <webElementGuid>0d2286cd-648d-45db-a281-3ade3454942b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ri-close-line</value>
-      <webElementGuid>8dcbc991-bec4-4b7e-8d14-6ff4e219dc14</webElementGuid>
+      <webElementGuid>db45d49c-8904-4ce2-8058-336cfeb7fdef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[1]/div[2]/div[@class=&quot;ant-modal-root css-14i19y2&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-wrap-rtl&quot;]/div[@class=&quot;ant-modal css-14i19y2 blackFrdiayModal&quot;]/div[2]/div[@class=&quot;ant-modal-content&quot;]/button[@class=&quot;ant-modal-close&quot;]/span[@class=&quot;ant-modal-close-x&quot;]/div[1]/i[@class=&quot;ri-close-line&quot;]</value>
-      <webElementGuid>500218c8-f0f8-4b5b-8140-e83f479ef6dc</webElementGuid>
+      <webElementGuid>34952cef-502e-41e7-afdc-73973b138494</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div/i</value>
-      <webElementGuid>5888073b-1d9f-4b6e-b8a4-2075769e7b40</webElementGuid>
+      <webElementGuid>5609c294-881a-4ad1-8d5d-8339eaa301cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

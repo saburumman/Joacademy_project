@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>joacademy logo new</name>
+   <name>date in calender</name>
    <tag></tag>
-   <elementGuidId>f29643ff-9784-4539-b152-f609c49ef74a</elementGuidId>
+   <elementGuidId>7f028614-c747-40ac-89df-4dbc4b5ad1c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,14 +11,10 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[name()='svg' and @viewBox='0 0 417.37 87.26' and contains(@class, 'tw-max-h-') and contains(@class, 'tw-max-w-')]</value>
+         <value>.react-calendar__tile</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
