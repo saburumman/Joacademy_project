@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>joacademy logo new</name>
+   <name>office hours in my calender first scenario</name>
    <tag></tag>
-   <elementGuidId>f29643ff-9784-4539-b152-f609c49ef74a</elementGuidId>
+   <elementGuidId>f7638572-8915-4f3b-bccd-5ebe506eafff</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[contains(@class, 'tw-flex') and contains(@class, 'tw-w-full') and contains(@class, 'tw-bg-[#1A428A]') and .//span[text()='ساعات مكتبية']]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[name()='svg' and @viewBox='0 0 417.37 87.26' and contains(@class, 'tw-max-h-') and contains(@class, 'tw-max-w-')]</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

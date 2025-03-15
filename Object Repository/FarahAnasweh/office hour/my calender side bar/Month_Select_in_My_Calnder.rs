@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>joacademy logo new</name>
+   <name>Month_Select_in_My_Calnder</name>
    <tag></tag>
-   <elementGuidId>f29643ff-9784-4539-b152-f609c49ef74a</elementGuidId>
+   <elementGuidId>d6fe7adc-57f5-493b-8de6-685d872e3ab1</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.react-calendar__navigation__label__labelText--from</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[name()='svg' and @viewBox='0 0 417.37 87.26' and contains(@class, 'tw-max-h-') and contains(@class, 'tw-max-w-')]</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

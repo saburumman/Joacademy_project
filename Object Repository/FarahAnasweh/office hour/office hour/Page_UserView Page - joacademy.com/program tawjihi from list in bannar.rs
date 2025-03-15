@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>joacademy logo new</name>
+   <name>program tawjihi from list in bannar</name>
    <tag></tag>
-   <elementGuidId>f29643ff-9784-4539-b152-f609c49ef74a</elementGuidId>
+   <elementGuidId>b4b3cdab-0bd3-4db4-869d-a3ddc7939d48</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(text(),'برنامج التوجيهي والثانوي')]</value>
+      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[name()='svg' and @viewBox='0 0 417.37 87.26' and contains(@class, 'tw-max-h-') and contains(@class, 'tw-max-w-')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

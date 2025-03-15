@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>joacademy logo new</name>
+   <name>redirect to my calender button</name>
    <tag></tag>
-   <elementGuidId>f29643ff-9784-4539-b152-f609c49ef74a</elementGuidId>
+   <elementGuidId>e8da3cda-8897-4845-8e23-318ebccdbe98</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='calendar']</value>
+      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[name()='svg' and @viewBox='0 0 417.37 87.26' and contains(@class, 'tw-max-h-') and contains(@class, 'tw-max-w-')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
