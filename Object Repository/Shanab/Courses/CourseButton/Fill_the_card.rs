@@ -6,11 +6,11 @@
    <elementGuidId>683d2fec-583e-43a6-a665-b133bf5922e2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='card_password' and @placeholder='مثال: 1111 1111 1111 1111']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//input[@name='card_password' and @placeholder='مثال: 1111 1111 1111 1111']</value>
       </entry>
       <entry>
          <key>CSS</key>

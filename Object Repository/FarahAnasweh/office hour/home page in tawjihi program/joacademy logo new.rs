@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>search-bar</name>
+   <name>joacademy logo new</name>
    <tag></tag>
-   <elementGuidId>03feef72-ec36-4001-825e-f0adc08549d1</elementGuidId>
+   <elementGuidId>ba9689eb-0388-460d-a475-55f250c6889d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='search']</value>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[alt='JO LOGO']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

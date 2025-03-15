@@ -54,8 +54,8 @@ WebUI.verifyElementNotPresent(findTestObject('FarahAnasweh/recording login test 
 
 WebUI.click(findTestObject('Object Repository/FarahAnasweh/office hour/home page in tawjihi program/joacademy logo new'))
 
-if (WebUI.verifyElementPresent(findTestObject('Object Repository/FarahAnasweh/office hour/first subcategory -office hour- home page/splash popup'), 0)) {
-    WebUI.click(findTestObject('Object Repository/FarahAnasweh/office hour/first subcategory -office hour- home page/splash popup'))
+if (WebUI.verifyElementPresent (findTestObject('Object Repository/FarahAnasweh/recording login test case/first subcategory -office hour- home page/splash popup'), 0)) {
+    WebUI.click(findTestObject('Object Repository/FarahAnasweh/recording login test case/first subcategory -office hour- home page/splash popup'))
 }
 
 if (!(WebUI.verifyElementText(findTestObject('Object Repository/FarahAnasweh/office hour/home page in tawjihi program/change program selector'), 'برنامج التوجيهي'))) {

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p[@id=':R2l6jnl6:-form-item-message'][contains(text(),'الحقل مطلوب')]</value>
+         <value>//*[@id=&quot;:Rakqed6:-form-item-message&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

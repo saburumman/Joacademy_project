@@ -6,16 +6,15 @@
    <elementGuidId>b0e9ec0f-ea21-402e-baba-6dfdf2992ffd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[href='/login']</value>
+         <key>XPATH</key>
+         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>[href='/login']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

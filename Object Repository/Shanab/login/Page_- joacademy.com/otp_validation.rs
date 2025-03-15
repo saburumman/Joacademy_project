@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//p[@id=':ra:-form-item-message']</value>
+         <value>//*[@id=&quot;:rb:-form-item-message&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>f2779e43-00c5-4d99-8e3f-7bea17f76f64</webElementGuid>
+      <webElementGuid>19c9614a-57ba-466d-8c80-4e834c405ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:ra:-form-item-message</value>
-      <webElementGuid>70258dcb-42a5-4f97-9137-abd18d0fd14e</webElementGuid>
+      <webElementGuid>040d9d2c-469c-43d1-a221-e890c52b6d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tw-text-sm tw-font-medium tw-text-red-500 dark:tw-text-red-900</value>
-      <webElementGuid>d25126cd-0391-4ea0-b449-c6da27031710</webElementGuid>
+      <webElementGuid>8db07a16-66ed-481b-aab3-b2afae23d90c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>rtl</value>
-      <webElementGuid>1094992f-33a8-46e6-94c9-fa769ed4d82d</webElementGuid>
+      <webElementGuid>942322b5-9cad-41f7-a6de-4a161f063449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>الرمز أو رقم الهاتف المحمول غير صالح</value>
-      <webElementGuid>100aa7b4-d8c7-4749-a6b7-607fb3e4eedc</webElementGuid>
+      <webElementGuid>0fcba563-739d-450c-98c4-a1281256ec17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:ra:-form-item-message&quot;)</value>
-      <webElementGuid>f465d6c6-b9c2-4e3c-ac60-a373d22e55ae</webElementGuid>
+      <webElementGuid>3ec6b1fe-67e1-4902-9374-2f09c940b54f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id=':ra:-form-item-message']</value>
-      <webElementGuid>529e2502-baff-4ac4-808b-4bec1ca8ef6d</webElementGuid>
+      <webElementGuid>2d33b0fc-ac43-4e45-a306-c9f17bb3ed4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/div/div/section/form/div/p</value>
-      <webElementGuid>394347a3-2d33-4240-aee8-8924c08be49a</webElementGuid>
+      <webElementGuid>59973567-03a2-4dd3-880b-ede227950ba6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='تسجيل'])[1]/following::p[3]</value>
-      <webElementGuid>2d47b2bc-99fe-4c8c-9640-4bf86cd42cdd</webElementGuid>
+      <webElementGuid>dafa92b2-9406-4664-82a9-67a27aff612c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='دخول'])[1]/following::p[3]</value>
-      <webElementGuid>2f78f5bc-3b6d-4272-a244-8450aa7dffb0</webElementGuid>
+      <webElementGuid>2cd05194-1547-47bd-a250-5702240fa706</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ارسل مرة أخرى'])[1]/preceding::p[1]</value>
-      <webElementGuid>81a766c4-954c-4c98-b6ba-4f07799345cc</webElementGuid>
+      <webElementGuid>70d5be6d-4475-48ac-8e80-56aabf85ff15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='أرسل'])[1]/preceding::p[1]</value>
-      <webElementGuid>4a2af999-42a7-4133-9cbc-754adeba9ab3</webElementGuid>
+      <webElementGuid>eb07f684-61ea-4a4b-902c-02bc5f7649ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='الرمز أو رقم الهاتف المحمول غير صالح']/parent::*</value>
-      <webElementGuid>216c4376-003d-4e4d-9cb4-35c36665898b</webElementGuid>
+      <webElementGuid>13c0258c-4d62-4d78-be79-a8daec255c1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/p</value>
-      <webElementGuid>6744c066-629d-4936-9dcd-9fe09fe318bb</webElementGuid>
+      <webElementGuid>6b88899c-bb6e-4c55-b1c3-e71486e822ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = ':ra:-form-item-message' and (text() = 'الرمز أو رقم الهاتف المحمول غير صالح' or . = 'الرمز أو رقم الهاتف المحمول غير صالح')]</value>
-      <webElementGuid>a57e219d-c53b-4dbf-9e16-349ab0fe590a</webElementGuid>
+      <webElementGuid>f0d0c814-bd2a-43ef-9a8b-625c5e396720</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
