@@ -6,14 +6,15 @@
    <elementGuidId>9b4e5b92-261d-432b-b4a6-cba686c9b597</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;:rb:-form-item&quot;]</value>
+         <key>CSS</key>
+         <value>input[data-input-otp=&quot;true&quot;]</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//input[@id=':ra:-form-item']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5095a839-5f81-4e33-8188-0b0e0e06883f</webElementGuid>
+      <webElementGuid>191cd12c-faa6-4132-aa38-62e6d6555d09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>one-time-code</value>
-      <webElementGuid>3a4c1871-00c1-4d38-af88-d4d46916f903</webElementGuid>
+      <webElementGuid>0e519677-b9eb-452e-abfb-1898ae8cf758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>disabled:tw-cursor-not-allowed</value>
-      <webElementGuid>046aff96-2347-4190-8071-dae602f36be7</webElementGuid>
+      <webElementGuid>4914aae0-4bb4-495b-bd0c-b846771f31be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pin</value>
-      <webElementGuid>bce8a1a8-7a19-4f85-9e02-8b776bc5a629</webElementGuid>
+      <webElementGuid>ddcb735d-8eec-47ff-8fee-427acb14ec6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:ra:-form-item</value>
-      <webElementGuid>d193c047-12d7-4a09-ba9e-5a8ec9e1592a</webElementGuid>
+      <webElementGuid>0a3cfea2-a77d-4eab-bb97-49c59b17dbe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>:ra:-form-item-description</value>
-      <webElementGuid>bd6e01bc-2f34-40fc-b9d1-531d2aca54fd</webElementGuid>
+      <webElementGuid>244dbe4d-b7ae-488d-97ed-d373b403dcbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cd882eea-80d1-4001-9f77-f2fe4d635377</webElementGuid>
+      <webElementGuid>0b434c7f-cb09-42a3-88d7-c0e5bc0023f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>data-input-otp</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2232b83a-fd99-47ac-a760-56243c4ee2d9</webElementGuid>
+      <webElementGuid>e2daa043-d336-4fff-9798-a76e637a82fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>numeric</value>
-      <webElementGuid>03e90d04-9008-4964-a31b-b3645e61a424</webElementGuid>
+      <webElementGuid>b27802a4-4559-4965-8d05-d62dbcf86e91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>^\d+$</value>
-      <webElementGuid>53a55c37-4d22-491f-adf6-2b9e49b9abf5</webElementGuid>
+      <webElementGuid>b64bef42-77fb-44e1-9141-a63a60ef7333</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>6</value>
-      <webElementGuid>5c6f6981-69c7-4a06-b053-cc4b63c3dba3</webElementGuid>
+      <webElementGuid>ba28680c-86ce-417b-bea4-fa5393ccaf62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>value</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>19b53feb-2f40-458c-b745-48f0fdc94a74</webElementGuid>
+      <webElementGuid>7fe44be7-2f0a-4f99-b45c-62b212e47904</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +119,7 @@
       <name>data-input-otp-mss</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b2833fc7-6be7-45d2-b098-f3e522849c80</webElementGuid>
+      <webElementGuid>02a076bd-d0b6-49d4-9f45-39c368a64160</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +127,7 @@
       <name>data-input-otp-mse</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ba287c3c-f67f-41b9-b520-b88b1aef5172</webElementGuid>
+      <webElementGuid>8f95ba43-e9cb-45ac-accd-ec18d4a08eb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +135,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:ra:-form-item&quot;)</value>
-      <webElementGuid>27fd0ba7-7ecd-4d52-a005-b039f8e1035c</webElementGuid>
+      <webElementGuid>c706a0c8-4e9b-4df9-99ba-de604a5b155a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -142,7 +143,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id=':ra:-form-item']</value>
-      <webElementGuid>ff8409de-3eb5-403c-a630-073122135207</webElementGuid>
+      <webElementGuid>2402f5f9-bd19-4aae-b51c-baf92a760d88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +151,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/div/div/section/form/div/div/div[2]/input</value>
-      <webElementGuid>b167ee6f-fc44-4416-a01a-12f309702e9b</webElementGuid>
+      <webElementGuid>dd7e9d3e-0c12-429a-9609-36cac98c1ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +159,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>c3391009-ea77-4ac4-88aa-019b37c4f583</webElementGuid>
+      <webElementGuid>934a83fa-fa59-4e22-9255-aa8e67819ece</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +167,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'pin' and @id = ':ra:-form-item']</value>
-      <webElementGuid>109904ce-8f83-4ba8-8078-7ab806b696a9</webElementGuid>
+      <webElementGuid>7a792b31-ec8a-4c74-8009-132112836dd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
