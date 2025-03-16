@@ -6,17 +6,18 @@
    <elementGuidId>32514837-9c22-48cb-85d6-312a5ab919e0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;sidebar-card&quot;]/div/div/a[8]</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span[data-tut='courses']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
+         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
