@@ -263,8 +263,24 @@ public class courses extends methods{
 		println("Price of the selected cart: ${coursePriceValue}")
 
 		// Locate the submit button inside the selected cart
-		WebElement submitButton = randomElement.findElement(By.xpath(".//button[contains(text(), 'تفعيل بالبطاقة')]"))
-		this.hoverToTheButton(submitButton)
+		if(coursePriceValue==0){
+			println("The card price = 0")
+			CardCourse()
+		}else {
+		// click on the cart to navigate to the course details
+		WebElement clickOnCartName = randomElement.findElement(By.cssSelector("h2.tw-font-bold"))
+		this.hoverToTheButton(clickOnCartName)
+		
+		// Locate the submit button inside the selected cart
+//		WebElement submitButton = randomElement.findElement(By.xpath('//*[@id="__next"]/div[1]/div[2]/div[2]/div[2]/div/div/main/div[2]/div[1]/div[3]/div[2]/button[1]'))
+//		this.hoverToTheButton(submitButton)
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		
+		WebElement submitButton = wait.until(ExpectedConditions.presenceOfElementLocated(
+			By.xpath("//button[contains(text(), 'تفعيل البطاقة')]")
+		));
+		
+		this.hoverToTheButton(submitButton);
 
 		// Find the button element
 		WebElement buttonElement = driver.findElement(By.xpath("//button[contains(text(),'أرسل')]"))
@@ -279,7 +295,7 @@ public class courses extends methods{
 			println("The button is enabled.")
 		}
 	}
-
+	}
 
 
 
