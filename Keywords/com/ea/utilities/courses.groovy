@@ -62,8 +62,24 @@ public class courses extends methods{
 
 		// Locate the submit button inside the selected cart
 
-		WebElement submitButton = randomElement.findElement(By.xpath("//button[text()='تفعيل بالبطاقة']"))
-		this.hoverToTheButton(submitButton)
+		if(coursePriceValue==0){
+			println("The card price = 0")
+			CardCourse()
+		}else {
+		// click on the cart to navigate to the course details
+		WebElement clickOnCartName = randomElement.findElement(By.cssSelector("h2.tw-font-bold"))
+		this.hoverToTheButton(clickOnCartName)
+		
+		// Locate the submit button inside the selected cart
+//		WebElement submitButton = randomElement.findElement(By.xpath('//*[@id="__next"]/div[1]/div[2]/div[2]/div[2]/div/div/main/div[2]/div[1]/div[3]/div[2]/button[1]'))
+//		this.hoverToTheButton(submitButton)
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		
+		WebElement submitButton = wait.until(ExpectedConditions.presenceOfElementLocated(
+			By.xpath("//button[contains(text(), 'تفعيل البطاقة')]")
+		));
+		
+		this.hoverToTheButton(submitButton);
 
 		//to apply the cart match with cart price
 		switch (coursePriceValue) {
@@ -105,21 +121,21 @@ public class courses extends methods{
 
 
 		//check the successful message
-		String validationMessage = "تم تفعيل الدورة عبر البطاقة بنجاح"
-		String xpath = "//h4[contains(text(),'تم تفعيل الدورة عبر البطاقة بنجاح')]"
+		String validationMessage = "تهانينا! تمت عملية شراء الدورات بنجاح، لتصفح الدورات اذهب الى دوراتي"
+		String xpath = "//h4[contains(text(),'تهانينا! تمت عملية شراء الدورات بنجاح، لتصفح الدورات اذهب الى دوراتي')]"
 		this.assertValidation(validationMessage, xpath)
 
 		println("mached successfully")
-		WebElement okCardSubmit = driver.findElement(By.xpath("//button[contains(text(),'تم')]"))
+		WebElement okCardSubmit = driver.findElement(By.xpath("//button[contains(text(), 'عرض دوراتي')]"))
 		this.hoverToTheButton(okCardSubmit)
 
-		WebUI.click(findTestObject('Shanab/Courses/CourseButton/my_courses'))
+		//WebUI.click(findTestObject('Shanab/Courses/CourseButton/my_courses'))
 
 		//	WebUI.click(findTestObject('Shanab/Courses/CourseButton/mu_courses_button'))
 		Robot robot = new Robot()
 
 		robot.keyPress(KeyEvent.VK_ESCAPE)
-		robot.keyRelease(KeyEvent.VK_ESCAPE)
+		robot.keyRelease(KeyEvent.VK_ESCAPE)	
 		// Locate all course names using the actual XPath
 		List<WebElement> allCourseNameElements = driver.findElements(By.xpath("//h2[contains(@class, 'tw-font-bold')]"))
 		// Check if the CourseName is present in the list of all course names
@@ -133,10 +149,11 @@ public class courses extends methods{
 			}
 		}
 		if (isCourseFound) {
-			println("Success: Course name '${CourseName}' found.")
+			println("Course name '${CourseName}'not found.")
 		} else {
-			println("Course name '${CourseName}' not found.")
+			println("Success: Course name '${CourseName}'found.")
 		}
+	}
 	}
 
 	//This for blocked card
