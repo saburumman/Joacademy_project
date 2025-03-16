@@ -21,6 +21,10 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.WebElement as WebElement
 import org.openqa.selenium.By as By
+import org.openqa.selenium.support.ui.ExpectedConditions
+import org.openqa.selenium.support.ui.WebDriverWait
+import java.time.Duration
+
 
 // Log in to JoAcademy
 CustomKeywords.'com.ea.utilities.loginTest.loginToJoAcademy'()
@@ -31,9 +35,23 @@ WebUI.click(findTestObject('Shanab/Courses/CourseButton/CourseButton'))
 // Set the search text for the course
 WebUI.setText(findTestObject('Shanab/Courses/Filter/search-bar'), 'رياضيات - علمي - مسجل فصل اول - محمد صالح - 2007')
 
-// Locate the "Activate with Card" button
-WebElement cardRegister = DriverFactory.getWebDriver().findElement(By.xpath('//button[text()="تفعيل بالبطاقة"]'))
+WebDriver driver = DriverFactory.getWebDriver();
+WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
 
+// Wait for 3 seconds before interacting
+Thread.sleep(3000);
+
+// Locate the "Activate with Card" button
+
+WebElement NavigateToCart = DriverFactory.getWebDriver().findElement(By.cssSelector('h2.tw-font-bold'))
+
+// Hover over the button
+CustomKeywords.'com.ea.utilities.methods.hoverToTheButton'(NavigateToCart)
+
+
+WebElement cardRegister = wait.until(ExpectedConditions.visibilityOfElementLocated(
+    By.xpath("//button[text()='تفعيل البطاقة']")
+));
 // Hover over the button
 CustomKeywords.'com.ea.utilities.methods.hoverToTheButton'(cardRegister)
 
